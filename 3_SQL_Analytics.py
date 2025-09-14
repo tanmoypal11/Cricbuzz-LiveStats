@@ -345,6 +345,134 @@ if conn:
         st.warning(f"No data found. Error: {e}")
     st.markdown("---")
 
+
+
+    # -----------------------------
+    # Question 13: Batting Partnerships of 100+ Runs Between Consecutive Batsmen
+    # -----------------------------
+    st.header("13. Batting Partnerships of 100+ Runs Between Consecutive Batsmen")
+    try:
+        query = """
+        WITH BattingPairs AS (
+            SELECT 
+                r1.inningsId,
+                r1.matchId,
+                r1.playerName AS player1,
+                r1.battingPosition AS pos1,
+                r1.runsScored AS runs1,
+                r2.playerName AS player2,
+                r2.battingPosition AS pos2,
+                r2.runsScored AS runs2,
+                (r1.runsScored + r2.runsScored) AS combined_runs,
+                i.teamName,
+                i.inningsNumber
+            FROM recent_batting_scorecard r1
+            JOIN recent_batting_scorecard r2 
+                ON r1.inningsId = r2.inningsId 
+                AND r1.battingPosition = r2.battingPosition - 1
+            JOIN recent_innings i ON r1.inningsId = i.inningsId
+            WHERE r1.runsScored > 0 AND r2.runsScored > 0
+        )
+        SELECT 
+            inningsId,
+            matchId,
+            teamName,
+            inningsNumber,
+            player1,
+            pos1,
+            runs1,
+            player2,
+            pos2,
+            runs2,
+            combined_runs
+        FROM BattingPairs
+        WHERE combined_runs >= 100
+        ORDER BY combined_runs DESC;
+        """
+        df13 = pd.read_sql(query, conn)
+        st.dataframe(df13, use_container_width=True)
+    
+    except Exception as e:
+        st.warning(f"No partnerships found with 100+ runs. Error: {e}")
+    st.markdown("---")
+
+
+    # -----------------------------
+    # Question 14: Bowling Performance at Different Venues
+    # -----------------------------
+    st.header("14. Bowling Performance at Different Venues")
+    try:
+        query = """
+        SELECT 
+            bowler_name,
+            venue,
+            COUNT(DISTINCT match_id) AS matches_played,
+            SUM(wickets) AS total_wickets,
+            ROUND(SUM(runs) / SUM(overs), 2) AS avg_economy,
+            ROUND(SUM(wickets) * 1.0 / COUNT(DISTINCT match_id), 2) AS wickets_per_match
+        FROM bowling_2 
+        WHERE overs >= 4
+        GROUP BY bowler_id, bowler_name, venue
+        HAVING COUNT(DISTINCT match_id) >= 3
+        ORDER BY avg_economy ASC, wickets_per_match DESC
+        """
+        df14 = pd.read_sql(query, conn)
+        st.dataframe(df14, use_container_width=True)
+    except Exception as e:
+        st.warning(f"No bowling venue data found. Error: {e}")
+    st.markdown("---")
+
+    # -----------------------------
+    # Question 15: Players Performing Well in Close Matches
+    # -----------------------------
+    st.header("15. Players Performing Well in Close Matches")
+    try:
+        query = """
+        WITH CloseMatches AS (
+            -- Identify close matches (defined by margin < 50 runs or < 5 wickets)
+            SELECT matchId
+            FROM match_results
+            WHERE (victoryType = 'runs' AND victoryMargin < 50)
+               OR (victoryType = 'wickets' AND victoryMargin < 5)
+        ),
+        PlayerCloseMatchPerformance AS (
+            SELECT 
+                b.playerId,
+                b.playerName,
+                b.teamName,
+                COUNT(DISTINCT b.matchId) AS total_close_matches,
+                AVG(b.runsScored) AS avg_runs_in_close_matches,
+                SUM(CASE WHEN b.runsScored > 0 THEN 1 ELSE 0 END) AS close_matches_batted,
+                SUM(CASE WHEN mr.winningTeam = b.teamName THEN 1 ELSE 0 END) AS close_matches_won
+            FROM recent_batting_scorecard b
+            JOIN CloseMatches cm ON b.matchId = cm.matchId
+            JOIN match_results mr ON b.matchId = mr.matchId
+            GROUP BY b.playerId, b.playerName, b.teamName
+            HAVING COUNT(DISTINCT b.matchId) >= 1
+        )
+        SELECT 
+            playerId,
+            playerName,
+            teamName,
+            total_close_matches,
+            ROUND(avg_runs_in_close_matches, 2) AS avg_runs_in_close_matches,
+            close_matches_batted,
+            close_matches_won,
+            ROUND(close_matches_won * 100.0 / total_close_matches, 2) AS win_percentage
+        FROM PlayerCloseMatchPerformance
+        WHERE avg_runs_in_close_matches >= 20
+        ORDER BY avg_runs_in_close_matches DESC, total_close_matches DESC;
+        """
+        df15 = pd.read_sql(query, conn)
+        st.dataframe(df15, use_container_width=True)
+    
+    except Exception as e:
+        st.warning(f"No players found for close matches. Error: {e}")
+    st.markdown("---")
+
+
+
+
     # -----------------------------
     # Question 17: Toss Advantage Analysis
     # -----------------------------
@@ -414,6 +542,35 @@ if conn:
         st.warning(f"No economical bowlers found. Error: {e}")
     st.markdown("---")
 
+
+    # -----------------------------
+    # Question 19: Consistency of Batsmen (2022 onwards)
+    # -----------------------------
+    st.header("19. Consistency of Batsmen (2022 onwards)")
+    try:
+        query = """
+        SELECT 
+            player_name,
+            COUNT(*) AS innings_played,
+            ROUND(AVG(runs), 2) AS avg_runs,
+            ROUND(STDDEV(runs), 2) AS std_dev,
+            ROUND(AVG(runs) / NULLIF(STDDEV(runs), 0), 2) AS consistency_ratio,
+            ROUND(AVG(balls), 2) AS avg_balls_faced
+        FROM batting_2 
+        WHERE YEAR(start_date) >= 2022 
+            AND balls >= 10
+        GROUP BY player_id, player_name
+        HAVING COUNT(*) >= 3
+        ORDER BY std_dev ASC, consistency_ratio DESC
+        """
+        df19 = pd.read_sql(query, conn)
+        st.dataframe(df19, use_container_width=True)
+    except Exception as e:
+        st.warning(f"No consistency data found. Error: {e}")
+    st.markdown("---")
+
+
+  
     # -----------------------------
     # Question 20: Player Matches & Batting Averages Across Formats
     # -----------------------------
@@ -581,6 +738,189 @@ if conn:
 
     except Exception as e:
         st.warning(f"No data found. Error: {e}")
+    st.markdown("---")
+
+
+    # -----------------------------
+    # Question 23: Recent Player Form & Momentum
+    # -----------------------------
+    st.header("23. Recent Player Form & Momentum")
+    try:
+        query = """
+        WITH player_matches AS (
+            SELECT 
+                player_id,
+                player_name,
+                runs,
+                strike_rate,
+                start_date,
+                ROW_NUMBER() OVER (PARTITION BY player_id ORDER BY start_date DESC) as rn
+            FROM batting_2
+            WHERE balls > 0
+        ),
+        last_10 AS (
+            SELECT 
+                player_id,
+                player_name,
+                AVG(CASE WHEN rn <= 5 THEN runs END) as avg_last_5,
+                AVG(CASE WHEN rn <= 10 THEN runs END) as avg_last_10,
+                AVG(CASE WHEN rn <= 5 THEN strike_rate END) as sr_last_5,
+                AVG(CASE WHEN rn <= 10 THEN strike_rate END) as sr_last_10,
+                SUM(CASE WHEN rn <= 10 AND runs >= 50 THEN 1 ELSE 0 END) as fifty_plus,
+                STDDEV(CASE WHEN rn <= 10 THEN runs END) as consistency_std
+                FROM player_matches
+                WHERE rn <= 10
+            GROUP BY player_id, player_name
+            HAVING COUNT(*) >= 5
+        )
+        SELECT 
+            player_name,
+            ROUND(avg_last_5, 2) as avg_last_5,
+            ROUND(avg_last_10, 2) as avg_last_10,
+            ROUND(sr_last_5, 2) as sr_last_5,
+            ROUND(sr_last_10, 2) as sr_last_10,
+            fifty_plus,
+            ROUND(consistency_std, 2) as consistency_std,
+            CASE 
+                WHEN avg_last_5 > 40 AND sr_last_5 > 120 AND fifty_plus >= 2 THEN 'Excellent Form'
+                WHEN avg_last_5 > 30 AND sr_last_5 > 100 AND fifty_plus >= 1 THEN 'Good Form'
+                WHEN avg_last_5 > 20 THEN 'Average Form'
+                ELSE 'Poor Form'
+            END as form_category
+        FROM last_10
+        ORDER BY avg_last_5 DESC
+        """
+        df23 = pd.read_sql(query, conn)
+        st.dataframe(df23, use_container_width=True)
+    except Exception as e:
+        st.warning(f"No player form data found. Error: {e}")
+    st.markdown("---")
+   
+
+    # -----------------------------
+    # Question 24: Successful Batting Partnerships
+    # -----------------------------
+    st.header("24. Successful Batting Partnerships")
+    try:
+        query = """
+        WITH partnerships AS (
+            SELECT 
+                b1.match_id,
+                b1.innings_id,
+                b1.player_id as player1_id,
+                b1.player_name as player1_name,
+                b2.player_id as player2_id,
+                b2.player_name as player2_name,
+                ABS(b1.position - b2.position) as position_diff,
+                (b1.runs + b2.runs) as partnership_runs,
+                (b1.balls + b2.balls) as partnership_balls
+            FROM batting_2 b1
+            JOIN batting_2 b2 
+                ON b1.match_id = b2.match_id 
+                AND b1.innings_id = b2.innings_id
+                AND b1.player_id < b2.player_id
+                AND ABS(b1.position - b2.position) = 1
+        )
+        SELECT 
+            player1_name,
+            player2_name,
+            COUNT(*) as partnerships,
+            ROUND(AVG(partnership_runs), 2) as avg_partnership,
+            MAX(partnership_runs) as highest_partnership,
+            SUM(CASE WHEN partnership_runs >= 50 THEN 1 ELSE 0 END) as fifty_plus_partnerships,
+            ROUND(SUM(CASE WHEN partnership_runs >= 50 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2) as success_rate
+        FROM partnerships
+        GROUP BY player1_id, player1_name, player2_id, player2_name
+        HAVING COUNT(*) >= 5
+        ORDER BY avg_partnership DESC, success_rate DESC
+        """
+        df24 = pd.read_sql(query, conn)
+        st.dataframe(df24, use_container_width=True)
+    except Exception as e:
+        st.warning(f"No partnership data found. Error: {e}")
+    st.markdown("---")
+
+
+
+    # -----------------------------
+    # Question 25: Player Performance Evolution (Time-Series Analysis)
+    # -----------------------------
+    st.header("25. Player Performance Evolution (Time-Series Analysis)")
+    try:
+        query = """
+        WITH player_quarterly AS (
+            SELECT 
+                player_id,
+                player_name,
+                year_val,
+                quarter_val,
+                CONCAT(year_val, '-Q', quarter_val) AS quarter,
+                COUNT(match_id) AS matches_played,
+                AVG(runs) AS avg_runs,
+                AVG(strike_rate) AS avg_sr
+            FROM (
+                SELECT 
+                    player_id,
+                    player_name,
+                    YEAR(start_date) AS year_val,
+                    QUARTER(start_date) AS quarter_val,
+                    match_id,
+                    runs,
+                    strike_rate
+                FROM batting_2
+            ) t
+            GROUP BY player_id, player_name, year_val, quarter_val
+            HAVING COUNT(match_id) >= 2   -- relaxed from 3 → 2
+        ),
+        with_changes AS (
+            SELECT 
+                pq.*,
+                LAG(avg_runs) OVER (PARTITION BY player_id ORDER BY year_val, quarter_val) AS prev_avg_runs,
+                LAG(avg_sr) OVER (PARTITION BY player_id ORDER BY year_val, quarter_val) AS prev_avg_sr
+            FROM player_quarterly pq
+        ),
+        with_trends AS (
+            SELECT 
+                player_id,
+                player_name,
+                quarter,
+                avg_runs,
+                avg_sr,
+                matches_played,
+                CASE 
+                    WHEN prev_avg_runs IS NULL THEN 'No Comparison'
+                    WHEN avg_runs - prev_avg_runs > 10 THEN 'Improving'
+                    WHEN avg_runs - prev_avg_runs < -10 THEN 'Declining'
+                    ELSE 'Stable'
+                END AS runs_trend
+            FROM with_changes
+        ),
+        career_phase AS (
+            SELECT 
+                player_id,
+                player_name,
+                COUNT(DISTINCT quarter) AS quarters_played,
+                AVG(avg_runs) AS career_avg_runs,
+                AVG(avg_sr) AS career_avg_sr,
+                CASE 
+                    WHEN SUM(CASE WHEN runs_trend = 'Improving' THEN 1 ELSE 0 END) * 1.0 / COUNT(*) > 0.4 
+                         THEN 'Career Ascending'
+                    WHEN SUM(CASE WHEN runs_trend = 'Declining' THEN 1 ELSE 0 END) * 1.0 / COUNT(*) > 0.4 
+                         THEN 'Career Declining'
+                    ELSE 'Career Stable'
+                END AS career_phase
+            FROM with_trends
+            GROUP BY player_id, player_name
+            HAVING COUNT(DISTINCT quarter) >= 4   -- relaxed from 6 → 4
+        )
+        SELECT *  
+        FROM career_phase
+        ORDER BY career_avg_runs DESC;
+        """
+        df25 = pd.read_sql(query, conn)
+        st.dataframe(df25, use_container_width=True)
+    except Exception as e:
+        st.warning(f"No player evolution data found. Error: {e}")
     st.markdown("---")
 
 

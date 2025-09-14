@@ -94,19 +94,22 @@ def main():
     if not crud.conn:
         st.error("Cannot connect to database. Please check your connection settings.")
         return
-    
-    try:
-        # Sidebar for table selection
 
+
+    try:
         # Sidebar for table selection
         tables = [
             "cricket_series_2024", "highest_scores", "indian_players", 
             "international_teams", "match_results", "players_with_stats",
             "recent_matches", "teams_players", "top_odi_runs", 
             "top_test_runs", "venues",
-            # Newly added tables
-            "matches", "test_teams", "innings"
+            "matches", "test_teams", "recent_innings", "recent_batting_scorecard",
+            "partnerships",
+            # New cricket performance tables
+            "batting_2", "bowling_2", "indian_matches"
         ]
+
+
         
         selected_table = st.sidebar.selectbox("Select Table", tables)
         operation = st.sidebar.radio("Operation", ["View", "Create", "Update", "Delete"])
