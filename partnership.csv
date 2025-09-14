@@ -1,0 +1,165 @@
+match_id,series_name,match_description,innings_id,batting_team,batting_team_short,bowling_team,bowling_team_short,partnership_key,batter1_id,batter1_name,batter1_runs,batter1_fours,batter1_sixes,batter2_id,batter2_name,batter2_runs,batter2_fours,batter2_sixes,total_runs,total_balls,batter1_balls,batter2_balls
+114234,"The Hundred Womens Competition 2025","29th Match",1,"Oval Invincibles Women",OVLW,"London Spirit Women",LDNW,pat_1,13006,"Paige Scholfield",53,7,2,9114,Lanning,42,7,0,106,58,28,30
+114234,"The Hundred Womens Competition 2025","29th Match",1,"Oval Invincibles Women",OVLW,"London Spirit Women",LDNW,pat_2,13006,"Paige Scholfield",0,0,0,19417,Capsey,1,0,0,1,2,1,1
+114234,"The Hundred Womens Competition 2025","29th Match",1,"Oval Invincibles Women",OVLW,"London Spirit Women",LDNW,pat_3,9182,Kapp,4,1,0,19417,Capsey,1,0,0,5,2,1,1
+114234,"The Hundred Womens Competition 2025","29th Match",1,"Oval Invincibles Women",OVLW,"London Spirit Women",LDNW,pat_4,9182,Kapp,2,0,0,9420,Winfield-Hill,3,0,0,5,6,0,0
+114234,"The Hundred Womens Competition 2025","29th Match",1,"Oval Invincibles Women",OVLW,"London Spirit Women",LDNW,pat_5,9182,Kapp,3,0,0,11957,"Amanda-Jade Wellington",7,1,0,10,15,0,0
+114234,"The Hundred Womens Competition 2025","29th Match",1,"Oval Invincibles Women",OVLW,"London Spirit Women",LDNW,pat_6,9182,Kapp,11,2,0,13924,"Joanne Gardner",2,0,0,13,10,0,0
+114234,"The Hundred Womens Competition 2025","29th Match",1,"Oval Invincibles Women",OVLW,"London Spirit Women",LDNW,pat_7,9182,Kapp,6,1,0,19377,Franklin,2,0,0,8,7,0,0
+114234,"The Hundred Womens Competition 2025","29th Match",1,"Oval Invincibles Women",OVLW,"London Spirit Women",LDNW,pat_8,19922,"Kalea Moore",0,0,0,19377,Franklin,0,0,0,0,1,0,0
+114234,"The Hundred Womens Competition 2025","29th Match",1,"Oval Invincibles Women",OVLW,"London Spirit Women",LDNW,pat_9,29494,"Sophia Smale",1,0,0,19377,Franklin,6,1,0,7,4,0,0
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_1,9989,Mooney,5,1,0,12292,Bryce,6,1,0,11,15,10,5
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_10,25051,"Mahika Gaur",3,0,0,38694,"Seren Smale",2,0,0,5,6,0,0
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_2,11855,"Amelia Kerr",7,1,0,12292,Bryce,24,5,0,31,22,9,13
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_3,11855,"Amelia Kerr",19,3,0,9089,Dottin,30,4,1,54,28,11,17
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_4,11855,"Amelia Kerr",3,0,0,13919,"Alice Monaghan",2,0,0,5,7,0,0
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_5,13051,"Evelyn Jones",3,0,0,13919,"Alice Monaghan",7,0,1,11,9,0,0
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_6,11531,Ecclestone,4,0,0,13919,"Alice Monaghan",17,2,1,21,16,0,0
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_7,11531,Ecclestone,0,0,0,38694,"Seren Smale",1,0,0,1,2,0,0
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_8,13813,"Fi Morris",7,1,0,38694,"Seren Smale",4,0,0,12,12,0,0
+114242,"The Hundred Womens Competition 2025","30th Match",1,"Manchester Originals Women",MCRW,"Northern Superchargers Women",NORW,pat_9,19711,"Lauren Filer",0,0,0,38694,"Seren Smale",0,0,0,0,2,0,0
+131218,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","9th Match",1,"Germany Women",GERW,"Italy Women",ITAW,pat_1,45841,"Rameesha Shahid",5,1,0,1428823,"Wilhelmina Garcia",4,1,0,10,9,7,2
+131218,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","9th Match",1,"Germany Women",GERW,"Italy Women",ITAW,pat_2,27856,"Shravya Kolcharam",0,0,0,1428823,"Wilhelmina Garcia",0,0,0,0,2,2,0
+131218,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","9th Match",1,"Germany Women",GERW,"Italy Women",ITAW,pat_3,27856,"Shravya Kolcharam",23,2,0,1452785,"Nicole Kingsley",35,3,0,60,50,21,30
+131218,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","9th Match",1,"Germany Women",GERW,"Italy Women",ITAW,pat_4,1452800,"Ameya Kanukuntla",15,2,0,1452785,"Nicole Kingsley",22,2,0,39,23,10,15
+131218,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","9th Match",1,"Germany Women",GERW,"Italy Women",ITAW,pat_5,1452800,"Ameya Kanukuntla",25,2,0,18325,"Karthika Vijayaraghavan",13,0,0,48,48,0,0
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_1,29816,"Phebe Molkenboer",2,0,0,46982,"Merel Dekeling",10,2,0,12,16,7,9
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_10,13771,"Silver Siegers",0,0,0,15382,"Hannah Landheer",0,0,0,0,1,0,0
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_2,13761,"de Leede",49,5,1,46982,"Merel Dekeling",39,5,0,89,81,44,37
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_3,13761,"de Leede",2,0,0,13770,"Robine Rijke",7,0,0,9,15,6,9
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_4,15385,"Frederique Overdijk",1,0,0,13770,"Robine Rijke",0,0,0,1,3,1,2
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_5,50355,"Myrthe van den Raad",5,0,0,13770,"Robine Rijke",3,0,0,8,10,0,0
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_6,15387,"Iris Zwilling",2,0,0,13770,"Robine Rijke",1,0,0,4,6,0,0
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_7,1423987,"Sanya Khurana",3,0,0,13770,"Robine Rijke",1,0,0,4,7,0,0
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_8,1423987,"Sanya Khurana",0,0,0,15383,"Caroline de Lange",0,0,0,0,3,0,0
+131224,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","10th Match",1,"Netherlands Women",NEDW,"Ireland Women",IREW,pat_9,1423987,"Sanya Khurana",2,0,0,15382,"Hannah Landheer",9,0,1,13,11,0,0
+131229,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","11th Match",1,"Netherlands Women",NEDW,"Germany Women",GERW,pat_1,29816,"Phebe Molkenboer",35,5,0,46982,"Merel Dekeling",33,3,0,74,91,46,45
+131229,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","11th Match",1,"Netherlands Women",NEDW,"Germany Women",GERW,pat_2,29816,"Phebe Molkenboer",16,3,0,13761,"de Leede",11,2,0,36,29,11,18
+131229,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","11th Match",1,"Netherlands Women",NEDW,"Germany Women",GERW,pat_3,29816,"Phebe Molkenboer",56,9,0,13770,"Robine Rijke",13,0,0,71,40,0,0
+131229,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","11th Match",1,"Netherlands Women",NEDW,"Germany Women",GERW,pat_4,29816,"Phebe Molkenboer",20,3,0,15385,"Frederique Overdijk",36,4,0,65,39,0,0
+131229,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","11th Match",1,"Netherlands Women",NEDW,"Germany Women",GERW,pat_5,29816,"Phebe Molkenboer",0,0,0,50355,"Myrthe van den Raad",3,0,0,3,1,0,0
+131235,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","12th Match",1,"Ireland Women",IREW,"Italy Women",ITAW,pat_1,19572,"Amy Hunter",2,0,0,19567,"Ava Canning",7,1,0,11,17,3,14
+131235,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","12th Match",1,"Ireland Women",IREW,"Italy Women",ITAW,pat_2,19572,"Amy Hunter",34,4,0,9475,Delany,41,7,0,80,48,27,21
+131235,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","12th Match",1,"Ireland Women",IREW,"Italy Women",ITAW,pat_3,12764,"Rebecca Stokell",6,0,0,9475,Delany,12,2,0,19,14,6,8
+131235,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","12th Match",1,"Ireland Women",IREW,"Italy Women",ITAW,pat_4,11558,"Leah Paul",6,1,0,9475,Delany,2,0,0,8,6,4,2
+131235,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","12th Match",1,"Ireland Women",IREW,"Italy Women",ITAW,pat_5,1428760,"Coulter Reilly",1,0,0,9475,Delany,1,0,0,7,5,3,2
+131235,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","12th Match",1,"Ireland Women",IREW,"Italy Women",ITAW,pat_6,26213,"Arlene Kelly",0,0,0,9475,Delany,1,0,0,3,4,0,4
+131235,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","12th Match",1,"Ireland Women",IREW,"Italy Women",ITAW,pat_7,26213,"Arlene Kelly",0,0,0,19561,"Jane Maguire",1,0,0,1,4,0,4
+131235,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","12th Match",2,"Italy Women",ITAW,"Ireland Women",IREW,pat_8,34410,"Chathurika Mahamalage",0,0,0,29571,"Teshani Araliya",2,0,0,2,6,2,4
+131235,"ICC Womens T20 World Cup Europe Qualifier Division 1, 2025","12th Match",2,"Italy Women",ITAW,"Ireland Women",IREW,pat_9,34394,"Nimesha Ekanayake",3,0,0,29571,"Teshani Araliya",8,1,0,13,8,5,4
+131515,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","1st Match, Group A",1,"Nigeria Women",NGAW,"Sierra Leone Women",SLEW,pat_1,42324,"Lucky Piety",17,1,0,1450420,"Muhibat Amusa",11,0,0,36,45,14,31
+131515,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","1st Match, Group A",1,"Nigeria Women",NGAW,"Sierra Leone Women",SLEW,pat_2,42324,"Lucky Piety",10,2,0,42331,"Salome Sunday",3,0,0,13,11,7,4
+131515,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","1st Match, Group A",1,"Nigeria Women",NGAW,"Sierra Leone Women",SLEW,pat_3,45071,"Oseyande Omonkhobhio",0,0,0,42331,"Salome Sunday",0,0,0,0,3,0,3
+131515,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","1st Match, Group A",1,"Nigeria Women",NGAW,"Sierra Leone Women",SLEW,pat_4,53363,"Christabel Chukwuonye",4,0,0,42331,"Salome Sunday",1,0,0,6,8,4,4
+131515,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","1st Match, Group A",2,"Sierra Leone Women",SLEW,"Nigeria Women",NGAW,pat_5,33598,"Ann Marie Kamara",1,0,0,42481,"Marie Turay",4,0,0,5,18,3,15
+131515,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","1st Match, Group A",2,"Sierra Leone Women",SLEW,"Nigeria Women",NGAW,pat_6,33598,"Ann Marie Kamara",1,0,0,37868,"Zainab Kamara",9,1,0,12,12,1,11
+131515,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","1st Match, Group A",2,"Sierra Leone Women",SLEW,"Nigeria Women",NGAW,pat_7,33598,"Ann Marie Kamara",7,0,0,37852,"Linda Bull",3,0,0,13,17,12,5
+131515,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","1st Match, Group A",2,"Sierra Leone Women",SLEW,"Nigeria Women",NGAW,pat_8,33598,"Ann Marie Kamara",1,0,0,1452521,"Patrica Pratt",0,0,0,1,6,5,1
+131526,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","2nd Match, Group B",1,"Kenya Women",KENW,"Rwanda Women",RWAW,pat_1,23771,"Queentor Abel",1,0,0,23806,"Monicah Ndhambi",0,0,0,1,3,2,1
+131526,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","2nd Match, Group B",1,"Kenya Women",KENW,"Rwanda Women",RWAW,pat_2,23831,"Esther Wachira",17,2,0,23806,"Monicah Ndhambi",26,4,0,46,45,24,22
+131526,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","2nd Match, Group B",1,"Kenya Women",KENW,"Rwanda Women",RWAW,pat_3,23831,"Esther Wachira",9,1,0,23776,"Veronica Abuga",4,1,0,15,14,10,4
+131526,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","2nd Match, Group B",1,"Kenya Women",KENW,"Rwanda Women",RWAW,pat_4,23831,"Esther Wachira",14,1,0,36354,"Melvin Khagoitsa",14,1,0,30,39,21,18
+131526,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","2nd Match, Group B",1,"Kenya Women",KENW,"Rwanda Women",RWAW,pat_5,23831,"Esther Wachira",8,1,0,53338,"Jemimah Ndanu",6,1,0,15,13,6,7
+131526,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","2nd Match, Group B",1,"Kenya Women",KENW,"Rwanda Women",RWAW,pat_6,23831,"Esther Wachira",17,2,0,23841,"Venasa Ooko",5,0,0,22,19,0,0
+131532,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","3rd Match, Group A",1,"Zimbabwe Women",ZIMW,"Namibia Women",NAMW,pat_1,12755,Dhururu,4,0,0,19097,"Kelis Ndhlovu",12,3,0,16,23,9,14
+131532,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","3rd Match, Group A",1,"Zimbabwe Women",ZIMW,"Namibia Women",NAMW,pat_2,12755,Dhururu,19,3,0,12289,"Loreen Tshuma",14,2,0,34,32,20,12
+131532,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","3rd Match, Group A",1,"Zimbabwe Women",ZIMW,"Namibia Women",NAMW,pat_3,12754,Mugeri,6,1,0,12289,"Loreen Tshuma",2,0,0,9,15,10,5
+131532,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","3rd Match, Group A",1,"Zimbabwe Women",ZIMW,"Namibia Women",NAMW,pat_4,12754,Mugeri,3,0,0,20112,"Nyasha Gwanzura",5,1,0,9,11,5,6
+131532,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","3rd Match, Group A",1,"Zimbabwe Women",ZIMW,"Namibia Women",NAMW,pat_5,12754,Mugeri,2,0,0,54987,"Beloved Biza",1,0,0,3,7,1,6
+131532,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","3rd Match, Group A",1,"Zimbabwe Women",ZIMW,"Namibia Women",NAMW,pat_6,12754,Mugeri,0,0,0,12287,Nkomo,0,0,0,0,3,1,2
+131532,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","3rd Match, Group A",2,"Namibia Women",NAMW,"Zimbabwe Women",ZIMW,pat_7,15378,"Wilka Mwatile",7,0,1,24958,"Jurriene Diergaardt",0,0,0,8,8,4,4
+131532,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","3rd Match, Group A",2,"Namibia Women",NAMW,"Zimbabwe Women",ZIMW,pat_8,15378,"Wilka Mwatile",0,0,0,14536,"Sylvia Shihepo",0,0,0,0,1,0,1
+131532,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","3rd Match, Group A",2,"Namibia Women",NAMW,"Zimbabwe Women",ZIMW,pat_9,15378,"Wilka Mwatile",17,2,0,15376,"Eveleen Kejarukua",4,0,0,22,20,10,10
+131543,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","4th Match, Group B",1,"Tanzania Women",TANW,"Uganda Women",UGAW,pat_1,36251,"Saum Mtae",8,0,0,42002,"Neema Pius",24,3,0,32,42,18,24
+131543,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","4th Match, Group B",1,"Tanzania Women",TANW,"Uganda Women",UGAW,pat_2,36251,"Saum Mtae",22,0,0,17998,"Fatuma Kibasu",25,1,0,50,56,27,29
+131543,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","4th Match, Group B",1,"Tanzania Women",TANW,"Uganda Women",UGAW,pat_3,36251,"Saum Mtae",1,0,0,36256,"Hudaa Omary",0,0,0,1,4,2,2
+131543,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","4th Match, Group B",1,"Tanzania Women",TANW,"Uganda Women",UGAW,pat_4,46468,"Nasra Mohamedi",14,2,0,36256,"Hudaa Omary",5,1,0,19,10,7,3
+131543,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","4th Match, Group B",1,"Tanzania Women",TANW,"Uganda Women",UGAW,pat_5,46468,"Nasra Mohamedi",10,1,0,36263,"Agnes Qwele",5,1,0,16,8,6,2
+131543,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","4th Match, Group B",1,"Tanzania Women",TANW,"Uganda Women",UGAW,pat_6,46468,"Nasra Mohamedi",1,0,0,36244,"Shufaa Mohamedi",10,2,0,11,7,0,0
+131543,"ICC Womens T20 World Cup Africa Region Division One Qualifier 2025","4th Match, Group B",1,"Tanzania Women",TANW,"Uganda Women",UGAW,pat_7,46468,"Nasra Mohamedi",6,1,0,18045,Kamunya,0,0,0,11,9,0,0
+132687,"Nordic Women T20I Cup 2025","1st Match",1,"Finland Women",FINW,"Germany Women",GERW,pat_1,1429093,"Divija Unhale",14,1,0,1429061,"Traijila Mulepati ",6,0,0,29,21,10,12
+132687,"Nordic Women T20I Cup 2025","1st Match",1,"Finland Women",FINW,"Germany Women",GERW,pat_2,1429093,"Divija Unhale",2,0,0,1429129,"Stella Sheridan",2,0,0,7,8,4,4
+132687,"Nordic Women T20I Cup 2025","1st Match",1,"Finland Women",FINW,"Germany Women",GERW,pat_3,1429093,"Divija Unhale",36,5,0,1429097,"Haiyen Nguyen",23,0,0,67,45,20,25
+132687,"Nordic Women T20I Cup 2025","1st Match",1,"Finland Women",FINW,"Germany Women",GERW,pat_4,1429142,"Rhea Khullar",4,0,0,1429097,"Haiyen Nguyen",3,0,0,7,8,0,0
+132698,"Nordic Women T20I Cup 2025","2nd T20I",1,"Sweden Women",SWEW,"Norway Women",NOYW,pat_1,34382,"Anya Vaidya",2,0,0,48969,"Ekaterina Bogdanova",0,0,0,8,4,1,3
+132698,"Nordic Women T20I Cup 2025","2nd T20I",2,"Norway Women",NOYW,"Sweden Women",SWEW,pat_10,49044,"Prachi Kumari",0,0,0,1430748,"Purvi Kumari",0,0,0,3,7,1,6
+132698,"Nordic Women T20I Cup 2025","2nd T20I",1,"Sweden Women",SWEW,"Norway Women",NOYW,pat_2,34382,"Anya Vaidya",2,0,0,34352,"Kanchan Rana",3,0,0,11,28,19,9
+132698,"Nordic Women T20I Cup 2025","2nd T20I",1,"Sweden Women",SWEW,"Norway Women",NOYW,pat_3,34380,"Elsa Thelander",1,0,0,34352,"Kanchan Rana",0,0,0,6,6,2,5
+132698,"Nordic Women T20I Cup 2025","2nd T20I",1,"Sweden Women",SWEW,"Norway Women",NOYW,pat_4,34380,"Elsa Thelander",6,0,0,34333,"Imali Jayasooriya",8,0,0,16,23,10,13
+132698,"Nordic Women T20I Cup 2025","2nd T20I",1,"Sweden Women",SWEW,"Norway Women",NOYW,pat_5,34380,"Elsa Thelander",5,0,0,45817,"Hareer Chamto",3,0,0,10,13,6,7
+132698,"Nordic Women T20I Cup 2025","2nd T20I",2,"Norway Women",NOYW,"Sweden Women",SWEW,pat_6,1429075,"Vidya Viyala",6,0,0,1429084,"Alina Aslam",8,0,0,22,28,10,18
+132698,"Nordic Women T20I Cup 2025","2nd T20I",2,"Norway Women",NOYW,"Sweden Women",SWEW,pat_7,1429075,"Vidya Viyala",0,0,0,34219,"Mirab Razwan",0,0,0,0,1,0,1
+132698,"Nordic Women T20I Cup 2025","2nd T20I",2,"Norway Women",NOYW,"Sweden Women",SWEW,pat_8,1429075,"Vidya Viyala",0,0,0,1430748,"Purvi Kumari",2,0,0,3,6,4,2
+132698,"Nordic Women T20I Cup 2025","2nd T20I",2,"Norway Women",NOYW,"Sweden Women",SWEW,pat_9,34212,"Lopamudra Sahoo",0,0,0,1430748,"Purvi Kumari",0,0,0,2,7,6,1
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_1,1429093,"Divija Unhale",1,0,0,1429061,"Traijila Mulepati ",3,0,0,7,12,5,8
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_10,1458461,"Mira Saastamoinen",0,0,0,1458430,"Praghati Bhandari",2,0,0,9,22,10,12
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_2,1429093,"Divija Unhale",14,2,0,1429129,"Stella Sheridan",12,1,0,33,32,14,20
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_3,1429142,"Rhea Khullar",0,0,0,1429129,"Stella Sheridan",0,0,0,1,2,1,1
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_4,1429106,"Malyun Hassan",4,1,0,1429129,"Stella Sheridan",0,0,0,6,4,4,0
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_5,1429097,"Haiyen Nguyen",0,0,0,1429129,"Stella Sheridan",0,0,0,1,5,1,4
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_6,1458439,"Minna Stolt",3,0,0,1429129,"Stella Sheridan",1,0,0,8,19,9,10
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_7,1458461,"Mira Saastamoinen",0,0,0,1429129,"Stella Sheridan",2,0,0,4,10,4,7
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_8,1458461,"Mira Saastamoinen",0,0,0,1429113,"Mari Kojo",0,0,0,0,2,2,0
+132703,"Nordic Women T20I Cup 2025","3rd Match",1,"Finland Women",FINW,"Norway Women",NOYW,pat_9,1458461,"Mira Saastamoinen",1,0,0,1429133,"Aanchal Khullar",2,0,0,3,7,1,6
+132709,"Nordic Women T20I Cup 2025","4th Match",1,"Sweden Women",SWEW,"Denmark Women",DENW,pat_1,48969,"Ekaterina Bogdanova",7,1,0,34382,"Anya Vaidya",3,0,0,16,21,13,8
+132709,"Nordic Women T20I Cup 2025","4th Match",2,"Denmark Women",DENW,"Sweden Women",SWEW,pat_10,1429147,"Luise Holmgaard",0,0,0,48885,"Divya Golechha",1,0,0,1,1,0,1
+132709,"Nordic Women T20I Cup 2025","4th Match",1,"Sweden Women",SWEW,"Denmark Women",DENW,pat_2,34352,"Kanchan Rana",0,0,0,34382,"Anya Vaidya",0,0,0,0,4,1,3
+132709,"Nordic Women T20I Cup 2025","4th Match",1,"Sweden Women",SWEW,"Denmark Women",DENW,pat_3,34352,"Kanchan Rana",6,1,0,34380,"Elsa Thelander",1,0,0,9,10,8,2
+132709,"Nordic Women T20I Cup 2025","4th Match",1,"Sweden Women",SWEW,"Denmark Women",DENW,pat_4,34352,"Kanchan Rana",13,1,0,34373,"Rashmi Somashekhar",5,0,0,21,27,13,14
+132709,"Nordic Women T20I Cup 2025","4th Match",1,"Sweden Women",SWEW,"Denmark Women",DENW,pat_5,34333,"Imali Jayasooriya",0,0,0,34373,"Rashmi Somashekhar",0,0,0,2,7,6,1
+132709,"Nordic Women T20I Cup 2025","4th Match",1,"Sweden Women",SWEW,"Denmark Women",DENW,pat_6,45817,"Hareer Chamto",4,0,0,34373,"Rashmi Somashekhar",14,0,0,30,42,15,28
+132709,"Nordic Women T20I Cup 2025","4th Match",1,"Sweden Women",SWEW,"Denmark Women",DENW,pat_7,1431323,"Zara Mohammad",0,0,0,34373,"Rashmi Somashekhar",0,0,0,0,2,2,0
+132709,"Nordic Women T20I Cup 2025","4th Match",1,"Sweden Women",SWEW,"Denmark Women",DENW,pat_8,1453367,"Malyun Yusuf",0,0,0,34373,"Rashmi Somashekhar",0,0,0,0,1,0,1
+132709,"Nordic Women T20I Cup 2025","4th Match",1,"Sweden Women",SWEW,"Denmark Women",DENW,pat_9,1453367,"Malyun Yusuf",3,0,0,1462375,"Dewa Chamto",1,0,0,4,5,2,3
+132714,"Nordic Women T20I Cup 2025","5th Match",1,"Finland Women",FINW,"Denmark Women",DENW,pat_1,1429093,"Divija Unhale",5,0,0,1429061,"Traijila Mulepati ",9,1,0,19,17,8,9
+132714,"Nordic Women T20I Cup 2025","5th Match",1,"Finland Women",FINW,"Denmark Women",DENW,pat_2,1429129,"Stella Sheridan",16,0,0,1429061,"Traijila Mulepati ",18,2,0,44,45,27,19
+132714,"Nordic Women T20I Cup 2025","5th Match",1,"Finland Women",FINW,"Denmark Women",DENW,pat_3,1429129,"Stella Sheridan",16,2,0,1429097,"Haiyen Nguyen",2,0,0,27,18,13,8
+132714,"Nordic Women T20I Cup 2025","5th Match",1,"Finland Women",FINW,"Denmark Women",DENW,pat_4,1429142,"Rhea Khullar",1,0,0,1429097,"Haiyen Nguyen",6,1,0,9,8,2,6
+132714,"Nordic Women T20I Cup 2025","5th Match",1,"Finland Women",FINW,"Denmark Women",DENW,pat_5,1429106,"Malyun Hassan",1,0,0,1429097,"Haiyen Nguyen",2,0,0,4,7,0,0
+132720,"Nordic Women T20I Cup 2025","6th Match",1,"Germany Women",GERW,"Norway Women",NOYW,pat_1,1428823,"Wilhelmina Garcia",3,0,0,1452800,"Ameya Kanukuntla",2,0,0,10,10,9,3
+132720,"Nordic Women T20I Cup 2025","6th Match",2,"Norway Women",NOYW,"Germany Women",GERW,pat_10,1429075,"Vidya Viyala",3,0,0,49044,"Prachi Kumari",3,0,0,10,12,3,9
+132720,"Nordic Women T20I Cup 2025","6th Match",1,"Germany Women",GERW,"Norway Women",NOYW,pat_2,1452785,"Nicole Kingsley",0,0,0,1452800,"Ameya Kanukuntla",0,0,0,1,5,3,2
+132720,"Nordic Women T20I Cup 2025","6th Match",1,"Germany Women",GERW,"Norway Women",NOYW,pat_3,1452785,"Nicole Kingsley",4,1,0,1461858,"Aishani Kishore",7,0,0,19,29,18,12
+132720,"Nordic Women T20I Cup 2025","6th Match",1,"Germany Women",GERW,"Norway Women",NOYW,pat_4,18284,"Janet Ronalds",9,2,0,1461858,"Aishani Kishore",6,1,0,18,15,9,7
+132720,"Nordic Women T20I Cup 2025","6th Match",2,"Norway Women",NOYW,"Germany Women",GERW,pat_5,1462301,"Lizzie Stanfergin",1,0,0,34172,"Ayesha Hasan",8,0,0,11,18,9,9
+132720,"Nordic Women T20I Cup 2025","6th Match",2,"Norway Women",NOYW,"Germany Women",GERW,pat_6,1429075,"Vidya Viyala",3,0,0,34172,"Ayesha Hasan",1,0,0,8,7,3,4
+132720,"Nordic Women T20I Cup 2025","6th Match",2,"Norway Women",NOYW,"Germany Women",GERW,pat_7,1429075,"Vidya Viyala",1,0,0,1429084,"Alina Aslam",0,0,0,1,2,1,1
+132720,"Nordic Women T20I Cup 2025","6th Match",2,"Norway Women",NOYW,"Germany Women",GERW,pat_8,1429075,"Vidya Viyala",0,0,0,34219,"Mirab Razwan",0,0,0,2,3,0,3
+132720,"Nordic Women T20I Cup 2025","6th Match",2,"Norway Women",NOYW,"Germany Women",GERW,pat_9,1429075,"Vidya Viyala",2,0,0,34212,"Lopamudra Sahoo",0,0,0,3,8,6,2
+132731,"Nordic Women T20I Cup 2025","7th Match",1,"Norway Women",NOYW,"Denmark Women",DENW,pat_1,48403,"Anushka Gorad",5,0,0,1462390,"Mirab Sajjad",2,0,0,10,17,13,5
+132731,"Nordic Women T20I Cup 2025","7th Match",1,"Norway Women",NOYW,"Denmark Women",DENW,pat_2,48403,"Anushka Gorad",1,0,0,34200,"Bijeyata Kumari",0,0,0,1,3,1,2
+132731,"Nordic Women T20I Cup 2025","7th Match",1,"Norway Women",NOYW,"Denmark Women",DENW,pat_3,48403,"Anushka Gorad",8,0,0,34172,"Ayesha Hasan",17,2,0,32,29,11,19
+132731,"Nordic Women T20I Cup 2025","7th Match",1,"Norway Women",NOYW,"Denmark Women",DENW,pat_4,48403,"Anushka Gorad",12,2,0,1429084,"Alina Aslam",23,4,0,39,40,10,31
+132731,"Nordic Women T20I Cup 2025","7th Match",1,"Norway Women",NOYW,"Denmark Women",DENW,pat_5,34193,"Ramya Immadi",1,0,0,1429084,"Alina Aslam",0,0,0,1,3,0,0
+132731,"Nordic Women T20I Cup 2025","7th Match",1,"Norway Women",NOYW,"Denmark Women",DENW,pat_6,34193,"Ramya Immadi",12,2,0,1429075,"Vidya Viyala",1,0,0,14,14,0,0
+132731,"Nordic Women T20I Cup 2025","7th Match",1,"Norway Women",NOYW,"Denmark Women",DENW,pat_7,34219,"Mirab Razwan",2,0,0,1429075,"Vidya Viyala",6,1,0,11,12,0,0
+132731,"Nordic Women T20I Cup 2025","7th Match",1,"Norway Women",NOYW,"Denmark Women",DENW,pat_8,34219,"Mirab Razwan",1,0,0,1430748,"Purvi Kumari",2,0,0,3,14,0,0
+132731,"Nordic Women T20I Cup 2025","7th Match",1,"Norway Women",NOYW,"Denmark Women",DENW,pat_9,34212,"Lopamudra Sahoo",0,0,0,1430748,"Purvi Kumari",5,0,0,7,9,0,0
+132736,"Nordic Women T20I Cup 2025","8th Match",1,"Germany Women",GERW,"Sweden Women",SWEW,pat_1,1428823,"Wilhelmina Garcia",19,2,0,18325,"Karthika Vijayaraghavan",11,1,0,33,35,23,12
+132736,"Nordic Women T20I Cup 2025","8th Match",2,"Sweden Women",SWEW,"Germany Women",GERW,pat_10,1462397,"Kashvi Kanwar",0,0,0,1462375,"Dewa Chamto",0,0,0,0,2,1,1
+132736,"Nordic Women T20I Cup 2025","8th Match",1,"Germany Women",GERW,"Sweden Women",SWEW,pat_2,1428823,"Wilhelmina Garcia",13,1,0,27856,"Shravya Kolcharam",6,1,0,22,20,11,9
+132736,"Nordic Women T20I Cup 2025","8th Match",1,"Germany Women",GERW,"Sweden Women",SWEW,pat_3,1428823,"Wilhelmina Garcia",5,0,0,18284,"Janet Ronalds",2,0,0,7,11,8,3
+132736,"Nordic Women T20I Cup 2025","8th Match",1,"Germany Women",GERW,"Sweden Women",SWEW,pat_4,1428823,"Wilhelmina Garcia",0,0,0,45841,"Rameesha Shahid",2,0,0,2,4,0,4
+132736,"Nordic Women T20I Cup 2025","8th Match",1,"Germany Women",GERW,"Sweden Women",SWEW,pat_5,1428823,"Wilhelmina Garcia",3,0,0,1452785,"Nicole Kingsley",7,1,0,12,11,4,7
+132736,"Nordic Women T20I Cup 2025","8th Match",2,"Sweden Women",SWEW,"Germany Women",GERW,pat_6,34333,"Imali Jayasooriya",0,0,0,34373,"Rashmi Somashekhar",0,0,0,0,3,0,3
+132736,"Nordic Women T20I Cup 2025","8th Match",2,"Sweden Women",SWEW,"Germany Women",GERW,pat_7,34333,"Imali Jayasooriya",1,0,0,45817,"Hareer Chamto",0,0,0,1,5,3,2
+132736,"Nordic Women T20I Cup 2025","8th Match",2,"Sweden Women",SWEW,"Germany Women",GERW,pat_8,34333,"Imali Jayasooriya",1,0,0,1453367,"Malyun Yusuf",3,0,0,5,5,2,3
+132736,"Nordic Women T20I Cup 2025","8th Match",2,"Sweden Women",SWEW,"Germany Women",GERW,pat_9,34333,"Imali Jayasooriya",2,0,0,1462375,"Dewa Chamto",4,1,0,8,13,8,5
+132742,"Nordic Women T20I Cup 2025","9th Match",1,"Sweden Women",SWEW,"Finland Women",FINW,pat_1,48969,"Ekaterina Bogdanova",3,0,0,34382,"Anya Vaidya",2,0,0,11,16,9,7
+132742,"Nordic Women T20I Cup 2025","9th Match",1,"Sweden Women",SWEW,"Finland Women",FINW,pat_2,34352,"Kanchan Rana",1,0,0,34382,"Anya Vaidya",0,0,0,3,8,3,5
+132742,"Nordic Women T20I Cup 2025","9th Match",1,"Sweden Women",SWEW,"Finland Women",FINW,pat_3,34352,"Kanchan Rana",23,3,0,34380,"Elsa Thelander",11,0,0,45,57,31,30
+132742,"Nordic Women T20I Cup 2025","9th Match",1,"Sweden Women",SWEW,"Finland Women",FINW,pat_4,34373,"Rashmi Somashekhar",0,0,0,34380,"Elsa Thelander",5,1,0,5,10,6,4
+132742,"Nordic Women T20I Cup 2025","9th Match",1,"Sweden Women",SWEW,"Finland Women",FINW,pat_5,34333,"Imali Jayasooriya",1,0,0,34380,"Elsa Thelander",1,0,0,3,4,2,2
+132742,"Nordic Women T20I Cup 2025","9th Match",1,"Sweden Women",SWEW,"Finland Women",FINW,pat_6,34333,"Imali Jayasooriya",0,0,0,1431323,"Zara Mohammad",0,0,0,0,1,0,1
+132742,"Nordic Women T20I Cup 2025","9th Match",2,"Finland Women",FINW,"Sweden Women",SWEW,pat_7,1429061,"Traijila Mulepati ",7,0,0,1429113,"Mari Kojo",3,0,0,15,16,12,4
+132742,"Nordic Women T20I Cup 2025","9th Match",2,"Finland Women",FINW,"Sweden Women",SWEW,pat_8,1429133,"Aanchal Khullar",1,0,0,1429113,"Mari Kojo",2,0,0,6,8,4,4
+132747,"Nordic Women T20I Cup 2025","10th Match",1,"Germany Women",GERW,"Denmark Women",DENW,pat_1,1428823,"Wilhelmina Garcia",1,0,0,18325,"Karthika Vijayaraghavan",0,0,0,6,9,5,4
+132747,"Nordic Women T20I Cup 2025","10th Match",2,"Denmark Women",DENW,"Germany Women",GERW,pat_10,49074,"Anne-Sofie Slebsager",4,0,0,48913,"Maria Karlsen",3,0,0,11,12,10,2
+132747,"Nordic Women T20I Cup 2025","10th Match",1,"Germany Women",GERW,"Denmark Women",DENW,pat_2,27856,"Shravya Kolcharam",0,0,0,18325,"Karthika Vijayaraghavan",1,0,0,1,3,1,2
+132747,"Nordic Women T20I Cup 2025","10th Match",1,"Germany Women",GERW,"Denmark Women",DENW,pat_3,27856,"Shravya Kolcharam",1,0,0,1452800,"Ameya Kanukuntla",4,0,0,6,7,3,4
+132747,"Nordic Women T20I Cup 2025","10th Match",1,"Germany Women",GERW,"Denmark Women",DENW,pat_4,27856,"Shravya Kolcharam",0,0,0,18284,"Janet Ronalds",1,0,0,1,9,0,9
+132747,"Nordic Women T20I Cup 2025","10th Match",1,"Germany Women",GERW,"Denmark Women",DENW,pat_5,27856,"Shravya Kolcharam",0,0,0,18314,"Verena Stolle",4,1,0,5,2,0,2
+132747,"Nordic Women T20I Cup 2025","10th Match",1,"Germany Women",GERW,"Denmark Women",DENW,pat_6,45841,"Rameesha Shahid",2,0,0,18314,"Verena Stolle",2,0,0,5,10,6,4
+132747,"Nordic Women T20I Cup 2025","10th Match",1,"Germany Women",GERW,"Denmark Women",DENW,pat_7,45841,"Rameesha Shahid",6,0,0,18315,"Asmita Kohli",0,0,0,9,16,8,8
+132747,"Nordic Women T20I Cup 2025","10th Match",1,"Germany Women",GERW,"Denmark Women",DENW,pat_8,45841,"Rameesha Shahid",4,0,0,1452791,"Iris Edwards",10,0,0,16,28,14,14
+132747,"Nordic Women T20I Cup 2025","10th Match",2,"Denmark Women",DENW,"Germany Women",GERW,pat_9,1429147,"Luise Holmgaard",3,0,0,48913,"Maria Karlsen",2,0,0,7,13,4,9

@@ -1,0 +1,355 @@
+id,teamId,teamName,teamSName,countryName,category,playerId,playerName,battingStyle,bowlingStyle,role
+1,2,India,IND,India,"Test Teams",11808,"Shubman Gill","Right-hand bat","Right-arm offbreak",BATSMEN
+2,2,India,IND,India,"Test Teams",13940,"Yashasvi Jaiswal","Left-hand bat","Right-arm legbreak",BATSMEN
+3,2,India,IND,India,"Test Teams",13866,"Sai Sudharsan","Left-hand bat","Right-arm legbreak",BATSMEN
+4,2,India,IND,India,"Test Teams",576,"Rohit Sharma","Right-hand bat","Right-arm offbreak",BATSMEN
+5,2,India,IND,India,"Test Teams",1413,"Virat Kohli","Right-hand bat","Right-arm medium",BATSMEN
+6,2,India,IND,India,"Test Teams",7915,"Suryakumar Yadav","Right-hand bat","Right-arm offbreak",BATSMEN
+7,2,India,IND,India,"Test Teams",9428,"Shreyas Iyer","Right-hand bat","Right-arm legbreak",BATSMEN
+8,2,India,IND,India,"Test Teams",10896,"Rinku Singh","Left-hand bat","Right-arm offbreak",BATSMEN
+9,2,India,IND,India,"Test Teams",14504,"Tilak Varma","Left-hand bat","Right-arm offbreak",BATSMEN
+10,2,India,IND,India,"Test Teams",11813,"Ruturaj Gaikwad","Right-hand bat","Right-arm offbreak",BATSMEN
+11,2,India,IND,India,"Test Teams",10636,"Rajat Patidar","Right-hand bat","Right-arm offbreak",BATSMEN
+12,2,India,IND,India,"Test Teams",9429,"Sarfaraz Khan","Right-hand bat","Right-arm legbreak",BATSMEN
+13,2,India,IND,India,"Test Teams",9716,"Abhimanyu Easwaran","Right-hand bat","Right-arm legbreak",BATSMEN
+14,2,India,IND,India,"Test Teams",8257,"Karun Nair","Right-hand bat","Right-arm offbreak",BATSMEN
+15,2,India,IND,India,"Test Teams",14701,"Nitish Kumar Reddy","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+16,2,India,IND,India,"Test Teams",9647,"Hardik Pandya","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+17,2,India,IND,India,"Test Teams",11195,"Shivam Dube","Left-hand bat","Right-arm medium","ALL ROUNDER"
+18,2,India,IND,India,"Test Teams",12086,"Abhishek Sharma","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+19,2,India,IND,India,"Test Teams",587,"Ravindra Jadeja","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+20,2,India,IND,India,"Test Teams",8683,"Shardul Thakur","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+21,2,India,IND,India,"Test Teams",10945,"Washington Sundar","Left-hand bat","Right-arm offbreak","ALL ROUNDER"
+22,2,India,IND,India,"Test Teams",8808,"Axar Patel","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+23,2,India,IND,India,"Test Teams",10744,"Rishabh Pant","Left-hand bat",NULL,"WICKET KEEPER"
+24,2,India,IND,India,"Test Teams",8733,"KL Rahul","Right-hand bat",NULL,"WICKET KEEPER"
+25,2,India,IND,India,"Test Teams",14691,"Dhruv Jurel","Right-hand bat",NULL,"WICKET KEEPER"
+26,2,India,IND,India,"Test Teams",8271,"Sanju Samson","Right-hand bat",NULL,"WICKET KEEPER"
+27,2,India,IND,India,"Test Teams",10276,"Ishan Kishan","Left-hand bat",NULL,"WICKET KEEPER"
+28,2,India,IND,India,"Test Teams",10808,"Mohammed Siraj","Right-hand bat","Right-arm fast",BOWLER
+29,2,India,IND,India,"Test Teams",9311,"Jasprit Bumrah","Right-hand bat","Right-arm fast",BOWLER
+30,2,India,IND,India,"Test Teams",10551,"Prasidh Krishna","Right-hand bat","Right-arm fast",BOWLER
+31,2,India,IND,India,"Test Teams",14726,"Akash Deep","Right-hand bat","Right-arm fast-medium",BOWLER
+32,2,India,IND,India,"Test Teams",8292,"Kuldeep Yadav","Left-hand bat","Left-arm wrist-spin",BOWLER
+33,2,India,IND,India,"Test Teams",13217,"Arshdeep Singh","Left-hand bat","Left-arm fast-medium",BOWLER
+34,2,India,IND,India,"Test Teams",24729,"Harshit Rana","Right-hand bat","Right-arm fast-medium",BOWLER
+35,2,India,IND,India,"Test Teams",14659,"Ravi Bishnoi","Right-hand bat","Right-arm legbreak",BOWLER
+36,2,India,IND,India,"Test Teams",10754,"Mukesh Kumar","Right-hand bat","Right-arm fast-medium",BOWLER
+37,2,India,IND,India,"Test Teams",12926,"Varun Chakaravarthy","Right-hand bat","Right-arm legbreak",BOWLER
+38,96,Afghanistan,AFG,Afghanistan,"Test Teams",8277,"Hashmatullah Shahidi","Left-hand bat","Right-arm offbreak",BATSMEN
+39,96,Afghanistan,AFG,Afghanistan,"Test Teams",8571,"Rahmat Shah","Right-hand bat","Right-arm legbreak",BATSMEN
+40,96,Afghanistan,AFG,Afghanistan,"Test Teams",14200,"Riaz Hassan","Right-hand bat",NULL,BATSMEN
+41,96,Afghanistan,AFG,Afghanistan,"Test Teams",14204,"Sediqullah Atal","Left-hand bat",NULL,BATSMEN
+42,96,Afghanistan,AFG,Afghanistan,"Test Teams",15753,"Bahir Shah","Right-hand bat","Right-arm offbreak",BATSMEN
+43,96,Afghanistan,AFG,Afghanistan,"Test Teams",12069,"Darwish Rasooli","Right-hand bat","Right-arm offbreak",BATSMEN
+44,96,Afghanistan,AFG,Afghanistan,"Test Teams",12068,"Hazratullah Zazai","Left-hand bat","Left-arm orthodox",BATSMEN
+45,96,Afghanistan,AFG,Afghanistan,"Test Teams",15752,"Abdul Malik","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+46,96,Afghanistan,AFG,Afghanistan,"Test Teams",1449069,"Ismat Alam","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+47,96,Afghanistan,AFG,Afghanistan,"Test Teams",8030,"Gulbadin Naib","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+48,96,Afghanistan,AFG,Afghanistan,"Test Teams",13214,"Azmatullah Omarzai","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+49,96,Afghanistan,AFG,Afghanistan,"Test Teams",14281,"Zahir Shehzad","Right-hand bat","Left-arm orthodox","ALL ROUNDER"
+50,96,Afghanistan,AFG,Afghanistan,"Test Teams",10738,"Rashid Khan","Right-hand bat","Right-arm legbreak","ALL ROUNDER"
+51,96,Afghanistan,AFG,Afghanistan,"Test Teams",53160,"Bashir Ahmad","Left-hand bat","Left-arm medium","ALL ROUNDER"
+52,96,Afghanistan,AFG,Afghanistan,"Test Teams",3007,"Mohammad Nabi","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+53,96,Afghanistan,AFG,Afghanistan,"Test Teams",22956,"Nangeyalia Kharote","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+54,96,Afghanistan,AFG,Afghanistan,"Test Teams",11077,"Karim Janat","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+55,96,Afghanistan,AFG,Afghanistan,"Test Teams",47000,"Zubaid Akbari","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+56,96,Afghanistan,AFG,Afghanistan,"Test Teams",11071,"Ikram Alikhil","Left-hand bat",NULL,"WICKET KEEPER"
+57,96,Afghanistan,AFG,Afghanistan,"Test Teams",8278,"Afsar Zazai","Right-hand bat",NULL,"WICKET KEEPER"
+58,96,Afghanistan,AFG,Afghanistan,"Test Teams",14195,"Mohammad Ishaq","Right-hand bat",NULL,"WICKET KEEPER"
+59,96,Afghanistan,AFG,Afghanistan,"Test Teams",13213,"Rahmanullah Gurbaz","Right-hand bat",NULL,"WICKET KEEPER"
+60,96,Afghanistan,AFG,Afghanistan,"Test Teams",10828,"Zahir Khan","Left-hand bat","Left-arm wrist-spin",BOWLER
+61,96,Afghanistan,AFG,Afghanistan,"Test Teams",9858,"Zia-ur-Rehman Akbar","Right-hand bat","Left-arm orthodox",BOWLER
+62,96,Afghanistan,AFG,Afghanistan,"Test Teams",9609,"Yamin Ahmadzai","Right-hand bat","Right-arm fast-medium",BOWLER
+63,96,Afghanistan,AFG,Afghanistan,"Test Teams",23106,"Naveed Zadran","Right-hand bat","Right-arm medium",BOWLER
+64,96,Afghanistan,AFG,Afghanistan,"Test Teams",9848,"Fareed Ahmad Malik","Left-hand bat","Left-arm fast-medium",BOWLER
+65,96,Afghanistan,AFG,Afghanistan,"Test Teams",36501,"AM Ghazanfar","Right-hand bat","Right-arm offbreak",BOWLER
+66,96,Afghanistan,AFG,Afghanistan,"Test Teams",14282,"Fazalhaq Farooqi","Right-hand bat","Left-arm fast-medium",BOWLER
+67,96,Afghanistan,AFG,Afghanistan,"Test Teams",22861,"Bilal Sami","Right-hand bat","Right-arm medium",BOWLER
+68,96,Afghanistan,AFG,Afghanistan,"Test Teams",12071,"Mujeeb Ur Rahman","Right-hand bat","Right-arm offbreak",BOWLER
+69,96,Afghanistan,AFG,Afghanistan,"Test Teams",11289,Naveen-ul-Haq,"Right-hand bat","Right-arm fast-medium",BOWLER
+70,96,Afghanistan,AFG,Afghanistan,"Test Teams",15452,"Noor Ahmad","Right-hand bat","Left-arm wrist-spin",BOWLER
+71,27,Ireland,IRE,Ireland,"Test Teams",6710,"Andrew Balbirnie","Right-hand bat","Right-arm offbreak",BATSMEN
+72,27,Ireland,IRE,Ireland,"Test Teams",1451963,"Cade Carmichael","Right-hand bat","Right-arm medium",BATSMEN
+73,27,Ireland,IRE,Ireland,"Test Teams",11130,"Harry Tector","Right-hand bat","Right-arm offbreak",BATSMEN
+74,27,Ireland,IRE,Ireland,"Test Teams",36594,"Ross Adair","Right-hand bat","Left-arm orthodox",BATSMEN
+75,27,Ireland,IRE,Ireland,"Test Teams",13310,"Morgan Topping","Right-hand bat",NULL,BATSMEN
+76,27,Ireland,IRE,Ireland,"Test Teams",1114,"Paul Stirling","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+77,27,Ireland,IRE,Ireland,"Test Teams",13983,"Gareth Delany","Right-hand bat","Right-arm legbreak","ALL ROUNDER"
+78,27,Ireland,IRE,Ireland,"Test Teams",6329,"George Dockrell","Right-hand bat","Left-arm orthodox","ALL ROUNDER"
+79,27,Ireland,IRE,Ireland,"Test Teams",9667,"Andy McBrine","Left-hand bat","Right-arm offbreak","ALL ROUNDER"
+80,27,Ireland,IRE,Ireland,"Test Teams",23506,"Matthew Humphreys","Right-hand bat","Left-arm orthodox","ALL ROUNDER"
+81,27,Ireland,IRE,Ireland,"Test Teams",54252,"Jordan Neill","Right-hand bat","Right-arm medium","ALL ROUNDER"
+82,27,Ireland,IRE,Ireland,"Test Teams",29018,"Fionn Hand","Right-hand bat","Right-arm medium","ALL ROUNDER"
+83,27,Ireland,IRE,Ireland,"Test Teams",11131,"Lorcan Tucker","Right-hand bat",NULL,"WICKET KEEPER"
+84,27,Ireland,IRE,Ireland,"Test Teams",11127,"Stephen Doheny","Right-hand bat",NULL,"WICKET KEEPER"
+85,27,Ireland,IRE,Ireland,"Test Teams",10195,"Peter Moor","Right-hand bat","Right-arm offbreak","WICKET KEEPER"
+86,27,Ireland,IRE,Ireland,"Test Teams",13309,"Neil Rock","Left-hand bat",NULL,"WICKET KEEPER"
+87,27,Ireland,IRE,Ireland,"Test Teams",11128,"Joshua Little","Right-hand bat","Left-arm fast-medium",BOWLER
+88,27,Ireland,IRE,Ireland,"Test Teams",10451,"Barry McCarthy","Right-hand bat","Right-arm fast-medium",BOWLER
+89,27,Ireland,IRE,Ireland,"Test Teams",41928,"Thomas Mayes","Right-hand bat","Right-arm fast-medium",BOWLER
+90,27,Ireland,IRE,Ireland,"Test Teams",1451972,"Liam McCarthy","Left-hand bat","Right-arm fast-medium",BOWLER
+91,27,Ireland,IRE,Ireland,"Test Teams",6575,"Craig Young","Right-hand bat","Right-arm fast-medium",BOWLER
+92,27,Ireland,IRE,Ireland,"Test Teams",10449,"Mark Adair","Right-hand bat","Right-arm fast",BOWLER
+93,27,Ireland,IRE,Ireland,"Test Teams",11124,"Benjamin White","Right-hand bat","Right-arm legbreak",BOWLER
+94,27,Ireland,IRE,Ireland,"Test Teams",19178,"Graham Hume","Left-hand bat","Right-arm fast-medium",BOWLER
+95,27,Ireland,IRE,Ireland,"Test Teams",1428460,"Gavin Hoey","Right-hand bat","Right-arm legbreak",BOWLER
+96,3,Pakistan,PAK,Pakistan,"Test Teams",8364,Imam-ul-Haq,"Left-hand bat",NULL,BATSMEN
+97,3,Pakistan,PAK,Pakistan,"Test Teams",15847,"Muhammad Hurraira","Right-hand bat","Right-arm offbreak",BATSMEN
+98,3,Pakistan,PAK,Pakistan,"Test Teams",8359,"Babar Azam","Right-hand bat","Right-arm offbreak",BATSMEN
+99,3,Pakistan,PAK,Pakistan,"Test Teams",9545,"Shan Masood","Left-hand bat","Right-arm medium",BATSMEN
+100,3,Pakistan,PAK,Pakistan,"Test Teams",14241,"Saim Ayub","Left-hand bat","Right-arm offbreak",BATSMEN
+101,3,Pakistan,PAK,Pakistan,"Test Teams",10863,"Fakhar Zaman","Left-hand bat","Left-arm orthodox",BATSMEN
+102,3,Pakistan,PAK,Pakistan,"Test Teams",12565,"Khushdil Shah","Left-hand bat","Left-arm orthodox",BATSMEN
+103,3,Pakistan,PAK,Pakistan,"Test Teams",41113,"Hasan Nawaz","Right-hand bat","Right-arm offbreak",BATSMEN
+104,3,Pakistan,PAK,Pakistan,"Test Teams",12139,"Abdullah Shafique","Right-hand bat","Right-arm offbreak",BATSMEN
+105,3,Pakistan,PAK,Pakistan,"Test Teams",37572,"Tayyab Tahir","Right-hand bat","Right-arm legbreak",BATSMEN
+106,3,Pakistan,PAK,Pakistan,"Test Teams",13239,"Omair Yousuf","Right-hand bat",NULL,BATSMEN
+107,3,Pakistan,PAK,Pakistan,"Test Teams",1433121,"Abdul Samad","Right-hand bat",NULL,BATSMEN
+108,3,Pakistan,PAK,Pakistan,"Test Teams",9812,"Saud Shakeel","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+109,3,Pakistan,PAK,Pakistan,"Test Teams",9807,"Kamran Ghulam","Right-hand bat","Left-arm orthodox","ALL ROUNDER"
+110,3,Pakistan,PAK,Pakistan,"Test Teams",10101,"Salman Agha","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+111,3,Pakistan,PAK,Pakistan,"Test Teams",15460,"Irfan Khan","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+112,3,Pakistan,PAK,Pakistan,"Test Teams",9804,"Hussain Talat","Left-hand bat","Right-arm medium","ALL ROUNDER"
+113,3,Pakistan,PAK,Pakistan,"Test Teams",14545,"Noman Ali","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+114,3,Pakistan,PAK,Pakistan,"Test Teams",11265,"Faheem Ashraf","Left-hand bat","Right-arm medium","ALL ROUNDER"
+115,3,Pakistan,PAK,Pakistan,"Test Teams",11186,"Shadab Khan","Right-hand bat","Right-arm legbreak","ALL ROUNDER"
+116,3,Pakistan,PAK,Pakistan,"Test Teams",55256,"Jahandad Khan","Left-hand bat","Left-arm fast-medium","ALL ROUNDER"
+117,3,Pakistan,PAK,Pakistan,"Test Teams",13192,"Rohail Nazir","Right-hand bat",NULL,"WICKET KEEPER"
+118,3,Pakistan,PAK,Pakistan,"Test Teams",9468,"Mohammad Rizwan","Right-hand bat",NULL,"WICKET KEEPER"
+119,3,Pakistan,PAK,Pakistan,"Test Teams",13625,"Sahibzada Farhan","Right-hand bat",NULL,"WICKET KEEPER"
+120,3,Pakistan,PAK,Pakistan,"Test Teams",15038,"Mohammad Haris","Right-hand bat","Right-arm offbreak","WICKET KEEPER"
+121,3,Pakistan,PAK,Pakistan,"Test Teams",19013,"Usman Khan","Right-hand bat","Right-arm offbreak","WICKET KEEPER"
+122,3,Pakistan,PAK,Pakistan,"Test Teams",12555,"Abrar Ahmed","Right-hand bat","Right-arm legbreak",BOWLER
+123,3,Pakistan,PAK,Pakistan,"Test Teams",19066,"Sajid Khan","Right-hand bat","Right-arm offbreak",BOWLER
+124,3,Pakistan,PAK,Pakistan,"Test Teams",35250,"Mohammad Ali","Right-hand bat","Right-arm fast-medium",BOWLER
+125,3,Pakistan,PAK,Pakistan,"Test Teams",19627,"Khurram Shahzad","Right-hand bat","Right-arm medium",BOWLER
+126,3,Pakistan,PAK,Pakistan,"Test Teams",1450089,"Kashif Ali","Right-hand bat","Right-arm medium",BOWLER
+127,3,Pakistan,PAK,Pakistan,"Test Teams",14561,"Haris Rauf","Right-hand bat","Right-arm fast",BOWLER
+128,3,Pakistan,PAK,Pakistan,"Test Teams",14247,"Naseem Shah","Right-hand bat","Right-arm fast",BOWLER
+129,3,Pakistan,PAK,Pakistan,"Test Teams",11320,"Hasan Ali","Right-hand bat","Right-arm fast-medium",BOWLER
+130,3,Pakistan,PAK,Pakistan,"Test Teams",15034,"Abbas Afridi","Right-hand bat","Right-arm fast-medium",BOWLER
+131,3,Pakistan,PAK,Pakistan,"Test Teams",15751,"Akif Javed","Right-hand bat","Left-arm fast-medium",BOWLER
+132,3,Pakistan,PAK,Pakistan,"Test Teams",15040,"Mohammad Wasim Jr","Right-hand bat","Right-arm fast-medium",BOWLER
+133,3,Pakistan,PAK,Pakistan,"Test Teams",41169,"Sufiyan Muqeem","Left-hand bat","Left-arm wrist-spin",BOWLER
+134,3,Pakistan,PAK,Pakistan,"Test Teams",12160,"Shaheen Afridi","Left-hand bat","Left-arm fast-medium",BOWLER
+135,3,Pakistan,PAK,Pakistan,"Test Teams",14248,"Mohammad Hasnain","Right-hand bat","Right-arm fast-medium",BOWLER
+136,4,Australia,AUS,Australia,"Test Teams",2250,"Steven Smith","Right-hand bat","Right-arm legbreak",BATSMEN
+137,4,Australia,AUS,Australia,"Test Teams",10182,"Marnus Labuschagne","Right-hand bat","Right-arm legbreak",BATSMEN
+138,4,Australia,AUS,Australia,"Test Teams",8497,"Travis Head","Left-hand bat","Right-arm offbreak",BATSMEN
+139,4,Australia,AUS,Australia,"Test Teams",6635,"Usman Khawaja","Left-hand bat","Right-arm offbreak",BATSMEN
+140,4,Australia,AUS,Australia,"Test Teams",9456,"Matthew Short","Right-hand bat","Right-arm offbreak",BATSMEN
+141,4,Australia,AUS,Australia,"Test Teams",12225,"Cameron Green","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+142,4,Australia,AUS,Australia,"Test Teams",52495,"Sam Konstas","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+143,4,Australia,AUS,Australia,"Test Teams",8646,"Beau Webster","Right-hand bat","Right-arm medium","ALL ROUNDER"
+144,4,Australia,AUS,Australia,"Test Teams",13170,"Aaron Hardie","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+145,4,Australia,AUS,Australia,"Test Teams",7662,"Glenn Maxwell","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+146,4,Australia,AUS,Australia,"Test Teams",6250,"Mitchell Marsh","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+147,4,Australia,AUS,Australia,"Test Teams",9200,"Alex Carey","Left-hand bat",NULL,"WICKET KEEPER"
+148,4,Australia,AUS,Australia,"Test Teams",10637,"Josh Inglis","Right-hand bat",NULL,"WICKET KEEPER"
+149,4,Australia,AUS,Australia,"Test Teams",8095,"Pat Cummins","Right-hand bat","Right-arm fast",BOWLER
+150,4,Australia,AUS,Australia,"Test Teams",7850,"Nathan Lyon","Right-hand bat","Right-arm offbreak",BOWLER
+151,4,Australia,AUS,Australia,"Test Teams",7710,"Mitchell Starc","Left-hand bat","Left-arm fast",BOWLER
+152,4,Australia,AUS,Australia,"Test Teams",8642,"Adam Zampa","Right-hand bat","Right-arm legbreak",BOWLER
+153,4,Australia,AUS,Australia,"Test Teams",8136,"Sean Abbott","Right-hand bat","Right-arm fast-medium",BOWLER
+154,4,Australia,AUS,Australia,"Test Teams",6258,"Josh Hazlewood","Left-hand bat","Right-arm fast-medium",BOWLER
+155,4,Australia,AUS,Australia,"Test Teams",11689,"Xavier Bartlett","Right-hand bat","Right-arm fast-medium",BOWLER
+156,4,Australia,AUS,Australia,"Test Teams",8631,"Scott Boland","Right-hand bat","Right-arm fast-medium",BOWLER
+157,4,Australia,AUS,Australia,"Test Teams",15480,"Nathan Ellis","Right-hand bat","Right-arm fast-medium",BOWLER
+158,4,Australia,AUS,Australia,"Test Teams",13141,"Matthew Kuhnemann","Left-hand bat","Left-arm orthodox",BOWLER
+159,4,Australia,AUS,Australia,"Test Teams",13173,"Lance Morris","Right-hand bat","Right-arm fast",BOWLER
+160,4,Australia,AUS,Australia,"Test Teams",15146,"Todd Murphy","Left-hand bat","Right-arm offbreak",BOWLER
+161,4,Australia,AUS,Australia,"Test Teams",10280,"Jhye Richardson","Right-hand bat","Right-arm fast",BOWLER
+162,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",13682,"Pathum Nissanka","Right-hand bat",NULL,BATSMEN
+163,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",15081,"Pavan Rathnayake","Right-hand bat",NULL,BATSMEN
+164,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",11545,"Oshada Fernando","Right-hand bat","Right-arm legbreak",BATSMEN
+165,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",13884,"Pasindu Sooriyabandara","Right-hand bat",NULL,BATSMEN
+166,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",10939,"Avishka Fernando","Right-hand bat","Right-arm fast-medium",BATSMEN
+167,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",13187,"Nuwanidu Fernando","Right-hand bat","Right-arm offbreak",BATSMEN
+168,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",1629,"Angelo Mathews","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+169,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",10940,"Kamindu Mendis","Left-hand bat","Right-arm offbreak","ALL ROUNDER"
+170,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",7872,"Dhananjaya de Silva","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+171,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",10934,"Charith Asalanka","Left-hand bat","Right-arm offbreak","ALL ROUNDER"
+172,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",13694,"Janith Liyanage","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+173,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",13930,"Sonal Dinusha","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+174,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",18515,"Tharindu Rathnayake","Left-hand bat","Right-arm offbreak","ALL ROUNDER"
+175,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",39678,"Milan Priyanath Rathnayake","Left-hand bat","Right-arm fast-medium","ALL ROUNDER"
+176,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",14251,"Dunith Wellalage","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+177,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",10926,"Wanindu Hasaranga","Right-hand bat","Right-arm legbreak","ALL ROUNDER"
+178,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",6245,"Dinesh Chandimal","Right-hand bat","Right-arm offbreak","WICKET KEEPER"
+179,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",9494,"Kusal Mendis","Right-hand bat",NULL,"WICKET KEEPER"
+180,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",15586,"Lahiru Udara","Right-hand bat",NULL,"WICKET KEEPER"
+181,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",13236,"Nishan Madushka","Right-hand bat",NULL,"WICKET KEEPER"
+182,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",9495,"Sadeera Samarawickrama","Right-hand bat",NULL,"WICKET KEEPER"
+183,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",10938,"Asitha Fernando","Right-hand bat","Right-arm fast-medium",BOWLER
+184,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",11498,"Prabath Jayasuriya","Right-hand bat","Left-arm orthodox",BOWLER
+185,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",10472,"Kasun Rajitha","Right-hand bat","Right-arm fast-medium",BOWLER
+186,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",8483,"Akila Dananjaya","Left-hand bat","Right-arm offbreak",BOWLER
+187,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",41309,"Isitha Wijesundera","Left-hand bat","Right-arm fast-medium",BOWLER
+188,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",10928,"Lahiru Kumara","Left-hand bat","Right-arm fast-medium",BOWLER
+189,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",13675,"Nishan Peiris","Left-hand bat","Right-arm offbreak",BOWLER
+190,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",8413,"Vishwa Fernando","Right-hand bat","Left-arm fast-medium",BOWLER
+191,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",10469,"Jeffrey Vandersay","Right-hand bat","Right-arm legbreak",BOWLER
+192,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",14574,"Mohamed Shiraz","Right-hand bat","Right-arm fast-medium",BOWLER
+193,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",46926,"Eshan Malinga","Left-hand bat","Right-arm fast-medium",BOWLER
+194,5,"Sri Lanka",SL,"Sri Lanka","Test Teams",18504,"Maheesh Theekshana","Right-hand bat","Right-arm offbreak",BOWLER
+195,6,Bangladesh,BAN,Bangladesh,"Test Teams",9864,"Najmul Hossain Shanto","Left-hand bat","Right-arm offbreak",BATSMEN
+196,6,Bangladesh,BAN,Bangladesh,"Test Teams",8219,"Mominul Haque","Left-hand bat","Left-arm orthodox",BATSMEN
+197,6,Bangladesh,BAN,Bangladesh,"Test Teams",13223,"Towhid Hridoy","Right-hand bat","Right-arm offbreak",BATSMEN
+198,6,Bangladesh,BAN,Bangladesh,"Test Teams",9868,"Shadman Islam","Left-hand bat","Left-arm orthodox",BATSMEN
+199,6,Bangladesh,BAN,Bangladesh,"Test Teams",8233,"Soumya Sarkar","Left-hand bat","Right-arm medium",BATSMEN
+200,6,Bangladesh,BAN,Bangladesh,"Test Teams",14205,"Tanzid Hasan Tamim","Left-hand bat",NULL,BATSMEN
+201,6,Bangladesh,BAN,Bangladesh,"Test Teams",1121,Mahmudullah,"Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+202,6,Bangladesh,BAN,Bangladesh,"Test Teams",11871,"Mahedi Hasan","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+203,6,Bangladesh,BAN,Bangladesh,"Test Teams",11081,"Mehidy Hasan Miraz","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+204,6,Bangladesh,BAN,Bangladesh,"Test Teams",8540,"Litton Das","Right-hand bat",NULL,"WICKET KEEPER"
+205,6,Bangladesh,BAN,Bangladesh,"Test Teams",394,"Mushfiqur Rahim","Right-hand bat",NULL,"WICKET KEEPER"
+206,6,Bangladesh,BAN,Bangladesh,"Test Teams",11088,"Jaker Ali","Right-hand bat",NULL,"WICKET KEEPER"
+207,6,Bangladesh,BAN,Bangladesh,"Test Teams",8237,"Anamul Haque","Right-hand bat",NULL,"WICKET KEEPER"
+208,6,Bangladesh,BAN,Bangladesh,"Test Teams",12174,"Mahidul Islam Ankon","Right-hand bat",NULL,"WICKET KEEPER"
+209,6,Bangladesh,BAN,Bangladesh,"Test Teams",8548,"Taskin Ahmed","Left-hand bat","Right-arm fast",BOWLER
+210,6,Bangladesh,BAN,Bangladesh,"Test Teams",8253,"Taijul Islam","Left-hand bat","Left-arm orthodox",BOWLER
+211,6,Bangladesh,BAN,Bangladesh,"Test Teams",9863,"Mustafizur Rahman","Left-hand bat","Left-arm fast-medium",BOWLER
+212,6,Bangladesh,BAN,Bangladesh,"Test Teams",13226,"Hasan Mahmud","Right-hand bat","Right-arm fast-medium",BOWLER
+213,6,Bangladesh,BAN,Bangladesh,"Test Teams",37581,"Nahid Rana","Right-hand bat","Right-arm fast",BOWLER
+214,6,Bangladesh,BAN,Bangladesh,"Test Teams",13791,"Shoriful Islam","Left-hand bat","Left-arm fast-medium",BOWLER
+215,6,Bangladesh,BAN,Bangladesh,"Test Teams",13794,"Rishad Hossain","Right-hand bat","Right-arm legbreak",BOWLER
+216,6,Bangladesh,BAN,Bangladesh,"Test Teams",15274,"Tanzim Hasan Sakib","Right-hand bat","Right-arm fast-medium",BOWLER
+217,6,Bangladesh,BAN,Bangladesh,"Test Teams",8543,"Nasum Ahmed ","Left-hand bat","Left-arm orthodox",BOWLER
+218,6,Bangladesh,BAN,Bangladesh,"Test Teams",13105,"Khaled Ahmed","Right-hand bat","Right-arm medium",BOWLER
+219,6,Bangladesh,BAN,Bangladesh,"Test Teams",12081,"Nayeem Hasan","Right-hand bat","Right-arm offbreak",BOWLER
+220,6,Bangladesh,BAN,Bangladesh,"Test Teams",11786,"Ebadot Hossain","Right-hand bat","Right-arm fast-medium",BOWLER
+221,9,England,ENG,England,"Test Teams",8502,"Ben Duckett","Left-hand bat","Right-arm offbreak",BATSMEN
+222,9,England,ENG,England,"Test Teams",8019,"Joe Root","Right-hand bat","Right-arm offbreak",BATSMEN
+223,9,England,ENG,England,"Test Teams",12201,"Harry Brook","Right-hand bat","Right-arm medium",BATSMEN
+224,9,England,ENG,England,"Test Teams",12770,"Zak Crawley","Right-hand bat","Right-arm medium",BATSMEN
+225,9,England,ENG,England,"Test Teams",6557,"Ben Stokes","Left-hand bat","Right-arm fast-medium","ALL ROUNDER"
+226,9,England,ENG,England,"Test Teams",19636,"Jacob Bethell","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+227,9,England,ENG,England,"Test Teams",12258,"Will Jacks","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+228,9,England,ENG,England,"Test Teams",10045,"Liam Livingstone","Right-hand bat","Right-arm legbreak","ALL ROUNDER"
+229,9,England,ENG,England,"Test Teams",6670,"Chris Woakes","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+230,9,England,ENG,England,"Test Teams",8512,"Jamie Overton","Right-hand bat","Right-arm fast","ALL ROUNDER"
+231,9,England,ENG,England,"Test Teams",13681,"Gus Atkinson","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+232,9,England,ENG,England,"Test Teams",19767,"Rehan Ahmed","Right-hand bat","Right-arm legbreak","ALL ROUNDER"
+233,9,England,ENG,England,"Test Teams",10420,"Sam Curran","Left-hand bat","Left-arm fast-medium","ALL ROUNDER"
+234,9,England,ENG,England,"Test Teams",11691,"Ollie Pope","Right-hand bat",NULL,"WICKET KEEPER"
+235,9,England,ENG,England,"Test Teams",13810,"Jamie Smith","Right-hand bat",NULL,"WICKET KEEPER"
+236,9,England,ENG,England,"Test Teams",2258,"Jos Buttler","Right-hand bat",NULL,"WICKET KEEPER"
+237,9,England,ENG,England,"Test Teams",6507,"Jonny Bairstow","Right-hand bat","Right-arm medium","WICKET KEEPER"
+238,9,England,ENG,England,"Test Teams",10479,"Philip Salt","Right-hand bat","Right-arm offbreak","WICKET KEEPER"
+239,9,England,ENG,England,"Test Teams",12994,"Sam James Cook","Right-hand bat","Right-arm fast",BOWLER
+240,9,England,ENG,England,"Test Teams",11436,"Brydon Carse","Right-hand bat","Right-arm fast",BOWLER
+241,9,England,ENG,England,"Test Teams",46023,"Shoaib Bashir","Right-hand bat","Right-arm offbreak",BOWLER
+242,9,England,ENG,England,"Test Teams",12747,"Josh Tongue","Right-hand bat","Right-arm fast-medium",BOWLER
+243,9,England,ENG,England,"Test Teams",8383,"Mark Wood","Right-hand bat","Right-arm fast",BOWLER
+244,9,England,ENG,England,"Test Teams",11540,"Jofra Archer","Right-hand bat","Right-arm fast",BOWLER
+245,9,England,ENG,England,"Test Teams",8578,"Jack Leach","Left-hand bat","Left-arm orthodox",BOWLER
+246,9,England,ENG,England,"Test Teams",12777,"Matthew Potts","Right-hand bat","Right-arm fast-medium",BOWLER
+247,9,England,ENG,England,"Test Teams",1742,"Adil Rashid","Right-hand bat","Right-arm legbreak",BOWLER
+248,9,England,ENG,England,"Test Teams",8022,"Olly Stone","Right-hand bat","Right-arm fast",BOWLER
+249,9,England,ENG,England,"Test Teams",8349,"Reece Topley","Right-hand bat","Left-arm fast-medium",BOWLER
+250,9,England,ENG,England,"Test Teams",42740,"Josh Hull","Left-hand bat","Left-arm fast-medium",BOWLER
+251,9,England,ENG,England,"Test Teams",19587,"John Turner","Right-hand bat","Right-arm fast-medium",BOWLER
+252,10,"West Indies",WI,"West Indies","Test Teams",9791,"Brandon King","Right-hand bat",NULL,BATSMEN
+253,10,"West Indies",WI,"West Indies","Test Teams",13352,"Alick Athanaze","Left-hand bat","Right-arm offbreak",BATSMEN
+254,10,"West Indies",WI,"West Indies","Test Teams",1984,"Kraigg Brathwaite","Right-hand bat","Right-arm offbreak",BATSMEN
+255,10,"West Indies",WI,"West Indies","Test Teams",8434,"Kavem Hodge","Right-hand bat","Left-arm orthodox",BATSMEN
+256,10,"West Indies",WI,"West Indies","Test Teams",11445,"Rovman Powell","Right-hand bat","Right-arm fast-medium",BATSMEN
+257,10,"West Indies",WI,"West Indies","Test Teams",9789,"Shimron Hetmyer","Left-hand bat",NULL,BATSMEN
+258,10,"West Indies",WI,"West Indies","Test Teams",8579,"Evin Lewis","Left-hand bat",NULL,BATSMEN
+259,10,"West Indies",WI,"West Indies","Test Teams",11217,"Keacy Carty","Right-hand bat","Right-arm medium","ALL ROUNDER"
+260,10,"West Indies",WI,"West Indies","Test Teams",8433,"Justin Greaves","Right-hand bat","Right-arm medium","ALL ROUNDER"
+261,10,"West Indies",WI,"West Indies","Test Teams",13748,"Sherfane Rutherford","Left-hand bat","Right-arm fast-medium","ALL ROUNDER"
+262,10,"West Indies",WI,"West Indies","Test Teams",8431,"John Campbell","Left-hand bat","Right-arm offbreak","ALL ROUNDER"
+263,10,"West Indies",WI,"West Indies","Test Teams",9793,"Gudakesh Motie","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+264,10,"West Indies",WI,"West Indies","Test Teams",11543,"Roston Chase","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+265,10,"West Indies",WI,"West Indies","Test Teams",13646,"Romario Shepherd","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+266,10,"West Indies",WI,"West Indies","Test Teams",8313,"Jason Holder","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+267,10,"West Indies",WI,"West Indies","Test Teams",7736,"Andre Russell","Right-hand bat","Right-arm fast","ALL ROUNDER"
+268,10,"West Indies",WI,"West Indies","Test Teams",10384,"Shai Hope","Right-hand bat",NULL,"WICKET KEEPER"
+269,10,"West Indies",WI,"West Indies","Test Teams",16414,"Joshua Da Silva","Right-hand bat",NULL,"WICKET KEEPER"
+270,10,"West Indies",WI,"West Indies","Test Teams",8101,"Johnson Charles","Right-hand bat",NULL,"WICKET KEEPER"
+271,10,"West Indies",WI,"West Indies","Test Teams",1394,"Andre Fletcher","Right-hand bat",NULL,"WICKET KEEPER"
+272,10,"West Indies",WI,"West Indies","Test Teams",54287,"Jewel Andrew","Right-hand bat",NULL,"WICKET KEEPER"
+273,10,"West Indies",WI,"West Indies","Test Teams",12674,"Amir Jangoo","Left-hand bat",NULL,"WICKET KEEPER"
+274,10,"West Indies",WI,"West Indies","Test Teams",11220,"Alzarri Joseph","Right-hand bat","Right-arm fast",BOWLER
+275,10,"West Indies",WI,"West Indies","Test Teams",50458,"Shamar Joseph","Left-hand bat","Right-arm fast",BOWLER
+276,10,"West Indies",WI,"West Indies","Test Teams",15817,"Jayden Seales","Left-hand bat","Right-arm medium",BOWLER
+277,10,"West Indies",WI,"West Indies","Test Teams",8435,"Akeal Hosein","Left-hand bat","Left-arm orthodox",BOWLER
+278,10,"West Indies",WI,"West Indies","Test Teams",13958,"Terrance Hinds","Right-hand bat","Right-arm fast-medium",BOWLER
+279,10,"West Indies",WI,"West Indies","Test Teams",11221,"Obed McCoy","Left-hand bat","Left-arm fast-medium",BOWLER
+280,10,"West Indies",WI,"West Indies","Test Teams",11223,"Shamar Springer","Right-hand bat","Right-arm fast-medium",BOWLER
+281,10,"West Indies",WI,"West Indies","Test Teams",15809,"Matthew Forde","Right-hand bat","Right-arm fast-medium",BOWLER
+282,10,"West Indies",WI,"West Indies","Test Teams",1429041,"Jediah Blades","Right-hand bat","Left-arm fast-medium",BOWLER
+283,11,"South Africa",RSA,"South Africa","Test Teams",6349,"David Miller","Left-hand bat",NULL,BATSMEN
+284,11,"South Africa",RSA,"South Africa","Test Teams",9582,"Aiden Markram","Right-hand bat","Right-arm offbreak",BATSMEN
+285,11,"South Africa",RSA,"South Africa","Test Teams",9554,"Rassie van der Dussen","Right-hand bat","Right-arm legbreak",BATSMEN
+286,11,"South Africa",RSA,"South Africa","Test Teams",8583,"Temba Bavuma","Right-hand bat","Right-arm medium",BATSMEN
+287,11,"South Africa",RSA,"South Africa","Test Teams",11196,"Tony de Zorzi","Left-hand bat","Right-arm offbreak",BATSMEN
+288,11,"South Africa",RSA,"South Africa","Test Teams",9491,"Reeza Hendricks","Right-hand bat","Right-arm offbreak",BATSMEN
+289,11,"South Africa",RSA,"South Africa","Test Teams",20538,"Dewald Brevis","Right-hand bat","Right-arm legbreak",BATSMEN
+290,11,"South Africa",RSA,"South Africa","Test Teams",10973,"Zubayr Hamza","Right-hand bat","Right-arm legbreak",BATSMEN
+291,11,"South Africa",RSA,"South Africa","Test Teams",11432,"Senuran Muthusamy","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+292,11,"South Africa",RSA,"South Africa","Test Teams",18142,"Lesego Senokwane","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+293,11,"South Africa",RSA,"South Africa","Test Teams",14565,"Marco Jansen","Right-hand bat","Left-arm fast","ALL ROUNDER"
+294,11,"South Africa",RSA,"South Africa","Test Teams",11200,"Wiaan Mulder","Right-hand bat","Right-arm medium","ALL ROUNDER"
+295,11,"South Africa",RSA,"South Africa","Test Teams",9576,"Corbin Bosch","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+296,11,"South Africa",RSA,"South Africa","Test Teams",8530,"Prenelan Subrayen","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+297,11,"South Africa",RSA,"South Africa","Test Teams",24546,"Codi Yusuf","Right-hand bat","Right-arm medium","ALL ROUNDER"
+298,11,"South Africa",RSA,"South Africa","Test Teams",14265,"David Bedingham","Right-hand bat",NULL,"WICKET KEEPER"
+299,11,"South Africa",RSA,"South Africa","Test Teams",13070,"Ryan Rickelton","Left-hand bat",NULL,"WICKET KEEPER"
+300,11,"South Africa",RSA,"South Africa","Test Teams",19243,"Tristan Stubbs","Right-hand bat","Right-arm offbreak","WICKET KEEPER"
+301,11,"South Africa",RSA,"South Africa","Test Teams",11209,"Kyle Verreynne","Right-hand bat","Right-arm offbreak","WICKET KEEPER"
+302,11,"South Africa",RSA,"South Africa","Test Teams",50545,"Lhuan-dre Pretorius","Left-hand bat",NULL,"WICKET KEEPER"
+303,11,"South Africa",RSA,"South Africa","Test Teams",13089,"Matthew Breetzke","Right-hand bat",NULL,"WICKET KEEPER"
+304,11,"South Africa",RSA,"South Africa","Test Teams",9585,"Kagiso Rabada","Left-hand bat","Right-arm fast",BOWLER
+305,11,"South Africa",RSA,"South Africa","Test Teams",9603,"Lungi Ngidi","Right-hand bat","Right-arm fast",BOWLER
+306,11,"South Africa",RSA,"South Africa","Test Teams",13630,"Nandre Burger","Left-hand bat","Left-arm fast-medium",BOWLER
+307,11,"South Africa",RSA,"South Africa","Test Teams",13320,"Gerald Coetzee","Right-hand bat","Right-arm fast",BOWLER
+308,11,"South Africa",RSA,"South Africa","Test Teams",9720,"Keshav Maharaj","Right-hand bat","Left-arm orthodox",BOWLER
+309,11,"South Africa",RSA,"South Africa","Test Teams",23346,"Kwena Maphaka","Left-hand bat","Left-arm fast-medium",BOWLER
+310,11,"South Africa",RSA,"South Africa","Test Teams",8531,"Lizaad Williams","Left-hand bat","Right-arm fast-medium",BOWLER
+311,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",6334,"Craig Ervine","Left-hand bat","Right-arm offbreak",BATSMEN
+312,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",13957,"Ben Curran","Left-hand bat","Right-arm offbreak",BATSMEN
+313,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",18425,"Nick Welch","Right-hand bat","Right-arm legbreak",BATSMEN
+314,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",11148,"Prince Masvaure","Left-hand bat","Left-arm fast-medium",BATSMEN
+315,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",9354,"Sikandar Raza","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+316,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",441,"Sean Williams","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+317,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",19601,"Takudzwanashe Kaitano","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+318,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",23616,"Brian Bennett","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+319,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",11226,"Wessly Madhevere","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+320,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",1450665,"Vincent Masekesa","Right-hand bat","Right-arm legbreak","ALL ROUNDER"
+321,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",25331,"Tafadzwa Tsiga","Right-hand bat",NULL,"WICKET KEEPER"
+322,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",23761,"Clive Madande","Right-hand bat",NULL,"WICKET KEEPER"
+323,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",11235,"Kundai Matigimu","Right-hand bat","Right-arm fast",BOWLER
+324,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",25037,"Trevor Gwandu","Right-hand bat","Right-arm medium",BOWLER
+325,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",8460,"Wellington Masakadza","Left-hand bat","Left-arm orthodox",BOWLER
+326,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",11763,"Tanaka Chivanga","Right-hand bat","Right-arm fast",BOWLER
+327,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",13316,"Blessing Muzarabani","Right-hand bat","Right-arm fast-medium",BOWLER
+328,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",54385,"Newman Nyamhuri","Right-hand bat","Left-arm fast-medium",BOWLER
+329,12,Zimbabwe,ZIM,Zimbabwe,"Test Teams",11153,"Victor Nyauchi","Right-hand bat","Right-arm fast-medium",BOWLER
+330,13,"New Zealand",NZ,"New Zealand","Test Teams",6326,"Kane Williamson","Right-hand bat","Right-arm offbreak",BATSMEN
+331,13,"New Zealand",NZ,"New Zealand","Test Teams",11172,"Finn Allen","Right-hand bat",NULL,BATSMEN
+332,13,"New Zealand",NZ,"New Zealand","Test Teams",9976,"Mark Chapman","Left-hand bat","Left-arm orthodox",BATSMEN
+333,13,"New Zealand",NZ,"New Zealand","Test Teams",10694,"Henry Nicholls","Left-hand bat","Right-arm offbreak",BATSMEN
+334,13,"New Zealand",NZ,"New Zealand","Test Teams",8549,"Will Young","Right-hand bat","Right-arm offbreak",BATSMEN
+335,13,"New Zealand",NZ,"New Zealand","Test Teams",41442,"Muhammad Abbas","Right-hand bat","Left-arm fast-medium","ALL ROUNDER"
+336,13,"New Zealand",NZ,"New Zealand","Test Teams",9551,"Michael Bracewell","Left-hand bat","Right-arm offbreak","ALL ROUNDER"
+337,13,"New Zealand",NZ,"New Zealand","Test Teams",10713,"Daryl Mitchell","Right-hand bat","Right-arm medium","ALL ROUNDER"
+338,13,"New Zealand",NZ,"New Zealand","Test Teams",10693,"Glenn Phillips","Right-hand bat","Right-arm offbreak","ALL ROUNDER"
+339,13,"New Zealand",NZ,"New Zealand","Test Teams",11177,"Rachin Ravindra","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+340,13,"New Zealand",NZ,"New Zealand","Test Teams",24391,"Zakary Foulkes","Right-hand bat","Right-arm medium","ALL ROUNDER"
+341,13,"New Zealand",NZ,"New Zealand","Test Teams",10100,"Mitchell Santner","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+342,13,"New Zealand",NZ,"New Zealand","Test Teams",11170,"Nathan Smith","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+343,13,"New Zealand",NZ,"New Zealand","Test Teams",9838,"Devon Conway","Left-hand bat","Right-arm medium","WICKET KEEPER"
+344,13,"New Zealand",NZ,"New Zealand","Test Teams",9443,"Tim Seifert","Right-hand bat",NULL,"WICKET KEEPER"
+345,13,"New Zealand",NZ,"New Zealand","Test Teams",10717,"Tom Blundell","Right-hand bat","Right-arm offbreak","WICKET KEEPER"
+346,13,"New Zealand",NZ,"New Zealand","Test Teams",18612,"Mitchell Hay","Right-hand bat",NULL,"WICKET KEEPER"
+347,13,"New Zealand",NZ,"New Zealand","Test Teams",8216,"Tom Latham","Left-hand bat","Right-arm medium","WICKET KEEPER"
+348,13,"New Zealand",NZ,"New Zealand","Test Teams",10692,"Lockie Ferguson","Right-hand bat","Right-arm fast",BOWLER
+349,13,"New Zealand",NZ,"New Zealand","Test Teams",15195,"Adithya Ashok","Right-hand bat","Right-arm legbreak",BOWLER
+350,13,"New Zealand",NZ,"New Zealand","Test Teams",8554,"Jacob Duffy","Right-hand bat","Right-arm fast-medium",BOWLER
+351,13,"New Zealand",NZ,"New Zealand","Test Teams",9067,"Matt Henry","Right-hand bat","Right-arm fast-medium",BOWLER
+352,13,"New Zealand",NZ,"New Zealand","Test Teams",9441,"Kyle Jamieson","Right-hand bat","Right-arm fast-medium",BOWLER
+353,13,"New Zealand",NZ,"New Zealand","Test Teams",15925,"William ORourke","Right-hand bat","Right-arm fast-medium",BOWLER
+354,13,"New Zealand",NZ,"New Zealand","Test Teams",11178,"Ben Sears","Right-hand bat","Right-arm fast-medium",BOWLER

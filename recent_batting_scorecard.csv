@@ -1,0 +1,441 @@
+id,inningsId,matchId,playerId,playerName,teamName,battingPosition,runsScored
+1,114242_1,114242,9989,"Beth Mooney","Manchester Originals Women",1,20
+2,114242_1,114242,12292,"Kathryn Bryce","Manchester Originals Women",2,5
+3,114242_1,114242,11855,"Amelia Kerr","Manchester Originals Women",3,6
+4,114242_1,114242,9089,"Deandra Dottin","Manchester Originals Women",4,11
+5,114242_1,114242,13919,"Alice Monaghan","Manchester Originals Women",5,26
+6,114242_1,114242,13051,"Evelyn Jones","Manchester Originals Women",6,3
+7,114242_1,114242,11531,"Sophie Ecclestone","Manchester Originals Women",7,4
+8,114242_1,114242,38694,"Seren Smale","Manchester Originals Women",8,7
+9,114242_1,114242,13813,"Fi Morris","Manchester Originals Women",9,7
+10,114242_1,114242,19711,"Lauren Filer","Manchester Originals Women",10,0
+11,114242_1,114242,25051,"Mahika Gaur","Manchester Originals Women",11,3
+12,114242_2,114242,38673,"Davina Perrin","Northern Superchargers Women",1,5
+13,114242_2,114242,13040,"Alice Davidson Richards","Northern Superchargers Women",2,30
+14,114242_2,114242,15636,"Phoebe Litchfield","Northern Superchargers Women",3,26
+15,114242_2,114242,12211,"Annabel Sutherland","Northern Superchargers Women",4,30
+16,114242_2,114242,13039,"Hollie Armitage","Northern Superchargers Women",5,0
+17,114242_2,114242,11405,"Nicola Carey","Northern Superchargers Women",6,0
+18,114242_2,114242,13918,"Bess Heath","Northern Superchargers Women",7,0
+19,114242_2,114242,9773,"Kate Cross","Northern Superchargers Women",8,0
+20,114242_2,114242,13010,"Lucy Higham","Northern Superchargers Women",9,0
+21,114242_2,114242,13018,"Linsey Smith","Northern Superchargers Women",10,0
+22,114242_2,114242,29508,"Grace Ballinger","Northern Superchargers Women",11,0
+23,114234_1,114234,13006,"Paige Scholfield","Oval Invincibles Women",1,22
+24,114234_1,114234,9114,Lanning,"Oval Invincibles Women",2,19
+25,114234_1,114234,19417,"Alice Capsey","Oval Invincibles Women",3,11
+26,114234_1,114234,9182,"Marizanne Kapp","Oval Invincibles Women",4,32
+27,114234_1,114234,9420,Winfield-Hill,"Oval Invincibles Women",5,3
+28,114234_1,114234,11957,"Amanda-Jade Wellington","Oval Invincibles Women",6,7
+29,114234_1,114234,13924,"Joanne Gardner","Oval Invincibles Women",7,2
+30,114234_1,114234,19377,Franklin,"Oval Invincibles Women",8,8
+31,114234_1,114234,19922,"Kalea Moore","Oval Invincibles Women",9,0
+32,114234_1,114234,29494,"Sophia Smale","Oval Invincibles Women",10,1
+33,114234_1,114234,38664,"Ellie Anderson","Oval Invincibles Women",11,0
+34,114234_2,114234,24944,"Kira Chathli","London Spirit Women",1,53
+35,114234_2,114234,12050,"Georgia Redmayne","London Spirit Women",2,42
+36,114234_2,114234,11101,"Grace Harris","London Spirit Women",3,2
+37,114234_2,114234,14378,"Charli Knott","London Spirit Women",4,4
+38,114234_2,114234,13027,"Cordelia Griffith","London Spirit Women",5,0
+39,114234_2,114234,13034,"Danielle Gibson","London Spirit Women",6,0
+40,114234_2,114234,15332,"Issy Wong","London Spirit Women",7,0
+41,114234_2,114234,13050,"Charlotte Dean","London Spirit Women",8,0
+42,114234_2,114234,13009,"Sarah Glenn","London Spirit Women",9,0
+43,114234_2,114234,13893,"Eva Gray","London Spirit Women",10,0
+44,114234_2,114234,47339,"Kate Coppack","London Spirit Women",11,0
+45,132742_1,132742,48969,"Ekaterina Bogdanova","Sweden Women",1,0
+46,132742_1,132742,34382,"Anya Vaidya","Sweden Women",2,10
+47,132742_1,132742,34352,"Kanchan Rana","Sweden Women",3,33
+48,132742_1,132742,34380,"Elsa Thelander","Sweden Women",4,45
+49,132742_1,132742,34373,"Rashmi Somashekhar","Sweden Women",5,23
+50,132742_1,132742,34333,"Imali Jayasooriya","Sweden Women",6,10
+51,132742_1,132742,1431323,"Zara Mohammad","Sweden Women",7,0
+52,132742_1,132742,45817,"Hareer Chamto","Sweden Women",8,0
+53,132742_1,132742,1453367,"Malyun Yusuf","Sweden Women",9,0
+54,132742_1,132742,1462397,"Kashvi Kanwar","Sweden Women",10,0
+55,132742_1,132742,1462489,"Matilda Fred","Sweden Women",11,0
+56,132742_2,132742,1429093,"Divija Unhale","Finland Women",1,4
+57,132742_2,132742,1429142,"Rhea Khullar","Finland Women",2,2
+58,132742_2,132742,1429106,"Malyun Hassan","Finland Women",3,11
+59,132742_2,132742,1429061,"Traijila Mulepati ","Finland Women",4,31
+60,132742_2,132742,1458461,"Mira Saastamoinen","Finland Women",5,5
+61,132742_2,132742,1429097,"Haiyen Nguyen","Finland Women",6,1
+62,132742_2,132742,1458439,"Minna Stolt","Finland Women",7,0
+63,132742_2,132742,1429113,"Mari Kojo","Finland Women",8,5
+64,132742_2,132742,1429133,"Aanchal Khullar","Finland Women",9,1
+65,132742_2,132742,1429129,"Stella Sheridan","Finland Women",10,0
+66,132742_2,132742,1458430,"Praghati Bhandari","Finland Women",11,0
+67,132747_1,132747,1428823,"Wilhelmina Garcia","Germany Women",1,13
+68,132747_1,132747,18325,"Karthika Vijayaraghavan","Germany Women",2,9
+69,132747_1,132747,27856,"Shravya Kolcharam","Germany Women",3,36
+70,132747_1,132747,1452800,"Ameya Kanukuntla","Germany Women",4,5
+71,132747_1,132747,18284,"Janet Ronalds","Germany Women",5,0
+72,132747_1,132747,18314,"Verena Stolle","Germany Women",6,12
+73,132747_1,132747,45841,"Rameesha Shahid","Germany Women",7,36
+74,132747_1,132747,18315,"Asmita Kohli","Germany Women",8,0
+75,132747_1,132747,1452791,"Iris Edwards","Germany Women",9,1
+76,132747_1,132747,45918,"Ashwini Balaji","Germany Women",10,0
+77,132747_1,132747,18330,"Antonia Meyenborg","Germany Women",11,0
+78,132747_2,132747,48869,"Kathrine Brock Nielsen","Denmark Women",1,1
+79,132747_2,132747,1425758,"Line Ostergaard","Denmark Women",2,0
+80,132747_2,132747,1425792,"Kiaya Pandya","Denmark Women",3,5
+81,132747_2,132747,48855,"Line Leisner","Denmark Women",4,9
+82,132747_2,132747,1430756,"Anne Ostergaard","Denmark Women",5,1
+83,132747_2,132747,48906,"Sofie Ostergaard","Denmark Women",6,4
+84,132747_2,132747,48862,"Nita Dalgaard","Denmark Women",7,2
+85,132747_2,132747,48913,"Maria Karlsen","Denmark Women",8,15
+86,132747_2,132747,1425767,"Camilla Ostergaard","Denmark Women",9,4
+87,132747_2,132747,1429147,"Luise Holmgaard","Denmark Women",10,3
+88,132747_2,132747,49074,"Anne-Sofie Slebsager","Denmark Women",11,4
+89,132736_1,132736,1428823,"Wilhelmina Garcia","Germany Women",1,50
+90,132736_1,132736,18325,"Karthika Vijayaraghavan","Germany Women",2,2
+91,132736_1,132736,27856,"Shravya Kolcharam","Germany Women",3,15
+92,132736_1,132736,18284,"Janet Ronalds","Germany Women",4,45
+93,132736_1,132736,45841,"Rameesha Shahid","Germany Women",5,6
+94,132736_1,132736,1452785,"Nicole Kingsley","Germany Women",6,14
+95,132736_1,132736,18315,"Asmita Kohli","Germany Women",7,0
+96,132736_1,132736,18314,"Verena Stolle","Germany Women",8,0
+97,132736_1,132736,45918,"Ashwini Balaji","Germany Women",9,0
+98,132736_1,132736,1452800,"Ameya Kanukuntla","Germany Women",10,0
+99,132736_1,132736,1452791,"Iris Edwards","Germany Women",11,0
+100,132736_2,132736,34382,"Anya Vaidya","Sweden Women",1,32
+101,132736_2,132736,48969,"Ekaterina Bogdanova","Sweden Women",2,11
+102,132736_2,132736,34352,"Kanchan Rana","Sweden Women",3,10
+103,132736_2,132736,34380,"Elsa Thelander","Sweden Women",4,5
+104,132736_2,132736,34333,"Imali Jayasooriya","Sweden Women",5,7
+105,132736_2,132736,1431323,"Zara Mohammad","Sweden Women",6,7
+106,132736_2,132736,34373,"Rashmi Somashekhar","Sweden Women",7,0
+107,132736_2,132736,45817,"Hareer Chamto","Sweden Women",8,0
+108,132736_2,132736,1453367,"Malyun Yusuf","Sweden Women",9,3
+109,132736_2,132736,1462375,"Dewa Chamto","Sweden Women",10,4
+110,132736_2,132736,1462397,"Kashvi Kanwar","Sweden Women",11,0
+111,132731_1,132731,48403,"Anushka Gorad","Norway Women",1,20
+112,132731_1,132731,1462390,"Mirab Sajjad","Norway Women",2,5
+113,132731_1,132731,34200,"Bijeyata Kumari","Norway Women",3,0
+114,132731_1,132731,34172,"Ayesha Hasan","Norway Women",4,2
+115,132731_1,132731,1429084,"Alina Aslam","Norway Women",5,5
+116,132731_1,132731,34193,"Ramya Immadi","Norway Women",6,9
+117,132731_1,132731,1429075,"Vidya Viyala","Norway Women",7,7
+118,132731_1,132731,34219,"Mirab Razwan","Norway Women",8,4
+119,132731_1,132731,1430748,"Purvi Kumari","Norway Women",9,7
+120,132731_1,132731,34212,"Lopamudra Sahoo","Norway Women",10,0
+121,132731_1,132731,49044,"Prachi Kumari","Norway Women",11,0
+122,132731_2,132731,1425774,"Tine Erichsen","Denmark Women",1,26
+123,132731_2,132731,48913,"Maria Karlsen","Denmark Women",2,2
+124,132731_2,132731,1462445,"Farhat Afroz","Denmark Women",3,0
+125,132731_2,132731,48855,"Line Leisner","Denmark Women",4,17
+126,132731_2,132731,1430756,"Anne Ostergaard","Denmark Women",5,23
+127,132731_2,132731,48885,"Divya Golechha","Denmark Women",6,0
+128,132731_2,132731,1425758,"Line Ostergaard","Denmark Women",7,0
+129,132731_2,132731,1429147,"Luise Holmgaard","Denmark Women",8,0
+130,132731_2,132731,48906,"Sofie Ostergaard","Denmark Women",9,0
+131,132731_2,132731,48869,"Kathrine Brock Nielsen","Denmark Women",10,0
+132,132731_2,132731,48862,"Nita Dalgaard","Denmark Women",11,0
+133,132698_1,132698,34382,"Anya Vaidya","Sweden Women",1,17
+134,132698_1,132698,48969,"Ekaterina Bogdanova","Sweden Women",2,0
+135,132698_1,132698,34352,"Kanchan Rana","Sweden Women",3,78
+136,132698_1,132698,34380,"Elsa Thelander","Sweden Women",4,31
+137,132698_1,132698,34333,"Imali Jayasooriya","Sweden Women",5,15
+138,132698_1,132698,45817,"Hareer Chamto","Sweden Women",6,2
+139,132698_1,132698,1431323,"Zara Mohammad","Sweden Women",7,0
+140,132698_1,132698,1453367,"Malyun Yusuf","Sweden Women",8,0
+141,132698_1,132698,1462375,"Dewa Chamto","Sweden Women",9,0
+142,132698_1,132698,34373,"Rashmi Somashekhar","Sweden Women",10,0
+143,132698_1,132698,1462386,"Pearl Bilimoria","Sweden Women",11,0
+144,132698_2,132698,48403,"Anushka Saurabh Gorad","Norway Women",1,2
+145,132698_2,132698,1462390,"Mirab Sajjad","Norway Women",2,3
+146,132698_2,132698,34200,"Bijeyata Kumari","Norway Women",3,2
+147,132698_2,132698,34172,"Ayesha Hasan","Norway Women",4,12
+148,132698_2,132698,34193,"Ramya Immadi","Norway Women",5,8
+149,132698_2,132698,1429084,"Alina Aslam","Norway Women",6,11
+150,132698_2,132698,1429075,"Vidya Viyala","Norway Women",7,6
+151,132698_2,132698,34219,"Mirab Razwan","Norway Women",8,0
+152,132698_2,132698,1430748,"Purvi Kumari","Norway Women",9,2
+153,132698_2,132698,34212,"Lopamudra Sahoo","Norway Women",10,0
+154,132698_2,132698,49044,"Prachi Kumari","Norway Women",11,0
+155,132720_1,132720,1428823,"Wilhelmina Garcia","Germany Women",1,11
+156,132720_1,132720,1452800,"Ameya Kanukuntla","Germany Women",2,16
+157,132720_1,132720,1452785,"Nicole Kingsley","Germany Women",3,30
+158,132720_1,132720,1461858,"Aishani Kishore","Germany Women",4,45
+159,132720_1,132720,18284,"Janet Ronalds","Germany Women",5,32
+160,132720_1,132720,18325,"Karthika Vijayaraghavan","Germany Women",6,0
+161,132720_1,132720,27856,"Shravya Kolcharam","Germany Women",7,0
+162,132720_1,132720,18315,"Asmita Kohli","Germany Women",8,0
+163,132720_1,132720,18314,"Verena Stolle","Germany Women",9,0
+164,132720_1,132720,18330,"Antonia Meyenborg","Germany Women",10,0
+165,132720_1,132720,45918,"Ashwini Balaji","Germany Women",11,0
+166,132720_2,132720,48403,"Anushka Saurabh Gorad","Norway Women",1,3
+167,132720_2,132720,1462390,"Mirab Sajjad","Norway Women",2,2
+168,132720_2,132720,34172,"Ayesha Hasan","Norway Women",3,22
+169,132720_2,132720,34200,"Bijeyata Kumari","Norway Women",4,4
+170,132720_2,132720,34193,"Ramya Immadi","Norway Women",5,9
+171,132720_2,132720,1462301,"Lizzie Stanfergin","Norway Women",6,1
+172,132720_2,132720,1429075,"Vidya Viyala","Norway Women",7,9
+173,132720_2,132720,1429084,"Alina Aslam","Norway Women",8,0
+174,132720_2,132720,34219,"Mirab Razwan","Norway Women",9,0
+175,132720_2,132720,34212,"Lopamudra Sahoo","Norway Women",10,0
+176,132720_2,132720,49044,"Prachi Kumari","Norway Women",11,3
+177,132714_1,132714,1429093,"Divija Unhale","Finland Women",1,39
+178,132714_1,132714,1429061,"Traijila Mulepati ","Finland Women",2,23
+179,132714_1,132714,1429129,"Stella Sheridan","Finland Women",3,2
+180,132714_1,132714,1429097,"Haiyen Nguyen","Finland Women",4,10
+181,132714_1,132714,1429142,"Rhea Khullar","Finland Women",5,1
+182,132714_1,132714,1429106,"Malyun Hassan","Finland Women",6,1
+183,132714_1,132714,1458439,"Minna Stolt","Finland Women",7,0
+184,132714_1,132714,1458461,"Mira Saastamoinen","Finland Women",8,0
+185,132714_1,132714,1429113,"Mari Kojo","Finland Women",9,0
+186,132714_1,132714,1429133,"Aanchal Khullar","Finland Women",10,0
+187,132714_1,132714,1458430,"Praghati Bhandari","Finland Women",11,0
+188,132714_2,132714,1425774,"Tine Erichsen","Denmark Women",1,5
+189,132714_2,132714,48913,"Maria Karlsen","Denmark Women",2,29
+190,132714_2,132714,1425792,"Kiaya Pandya","Denmark Women",3,16
+191,132714_2,132714,1425758,"Line Ostergaard","Denmark Women",4,17
+192,132714_2,132714,1430756,"Anne Ostergaard","Denmark Women",5,6
+193,132714_2,132714,48906,"Sofie Ostergaard","Denmark Women",6,0
+194,132714_2,132714,48855,"Line Leisner","Denmark Women",7,0
+195,132714_2,132714,48869,"Kathrine Brock Nielsen","Denmark Women",8,0
+196,132714_2,132714,48862,"Nita Dalgaard","Denmark Women",9,0
+197,132714_2,132714,1425767,"Camilla Ostergaard","Denmark Women",10,0
+198,132714_2,132714,48885,"Divya Golechha","Denmark Women",11,0
+199,132703_1,132703,1429093,"Divija Unhale","Finland Women",1,21
+200,132703_1,132703,1429061,"Traijila Mulepati ","Finland Women",2,0
+201,132703_1,132703,1429129,"Stella Sheridan","Finland Women",3,24
+202,132703_1,132703,1429142,"Rhea Khullar","Finland Women",4,3
+203,132703_1,132703,1429106,"Malyun Hassan","Finland Women",5,1
+204,132703_1,132703,1429097,"Haiyen Nguyen","Finland Women",6,0
+205,132703_1,132703,1458439,"Minna Stolt","Finland Women",7,2
+206,132703_1,132703,1458461,"Mira Saastamoinen","Finland Women",8,1
+207,132703_1,132703,1429113,"Mari Kojo","Finland Women",9,0
+208,132703_1,132703,1429133,"Aanchal Khullar","Finland Women",10,0
+209,132703_1,132703,1458430,"Praghati Bhandari","Finland Women",11,0
+210,132703_2,132703,48403,"Anushka Saurabh Gorad","Norway Women",1,10
+211,132703_2,132703,1462390,"Mirab Sajjad","Norway Women",2,3
+212,132703_2,132703,34200,"Bijeyata Kumari","Norway Women",3,12
+213,132703_2,132703,34172,"Ayesha Hasan","Norway Women",4,0
+214,132703_2,132703,34193,"Ramya Immadi","Norway Women",5,4
+215,132703_2,132703,1429084,"Alina Aslam","Norway Women",6,3
+216,132703_2,132703,34219,"Mirab Razwan","Norway Women",7,7
+217,132703_2,132703,1462400,"Archana Vishwakarma","Norway Women",8,0
+218,132703_2,132703,1429075,"Vidya Viyala","Norway Women",9,0
+219,132703_2,132703,49044,"Prachi Kumari","Norway Women",10,1
+220,132703_2,132703,34212,"Lopamudra Sahoo","Norway Women",11,0
+221,132709_1,132709,48969,"Ekaterina Bogdanova","Sweden Women",1,0
+222,132709_1,132709,34382,"Anya Vaidya","Sweden Women",2,6
+223,132709_1,132709,34352,"Kanchan Rana","Sweden Women",3,8
+224,132709_1,132709,34380,"Elsa Thelander","Sweden Women",4,1
+225,132709_1,132709,34373,"Rashmi Somashekhar","Sweden Women",5,29
+226,132709_1,132709,34333,"Imali Jayasooriya","Sweden Women",6,1
+227,132709_1,132709,45817,"Hareer Chamto","Sweden Women",7,2
+228,132709_1,132709,1431323,"Zara Mohammad","Sweden Women",8,19
+229,132709_1,132709,1453367,"Malyun Yusuf","Sweden Women",9,5
+230,132709_1,132709,1462375,"Dewa Chamto","Sweden Women",10,0
+231,132709_1,132709,1462397,"Kashvi Kanwar","Sweden Women",11,0
+232,132709_2,132709,1425774,"Tine Erichsen","Denmark Women",1,7
+233,132709_2,132709,48913,"Maria Karlsen","Denmark Women",2,3
+234,132709_2,132709,1430756,"Anne Ostergaard","Denmark Women",3,1
+235,132709_2,132709,48855,"Line Leisner","Denmark Women",4,20
+236,132709_2,132709,1425758,"Line Ostergaard","Denmark Women",5,19
+237,132709_2,132709,48869,"Kathrine Brock Nielsen","Denmark Women",6,0
+238,132709_2,132709,48862,"Nita Dalgaard","Denmark Women",7,5
+239,132709_2,132709,1425767,"Camilla Ostergaard","Denmark Women",8,0
+240,132709_2,132709,1429147,"Luise Holmgaard","Denmark Women",9,3
+241,132709_2,132709,49074,"Anne-Sofie Slebsager","Denmark Women",10,3
+242,132709_2,132709,48885,"Divya Golechha","Denmark Women",11,1
+243,132687_1,132687,1429093,"Divija Unhale","Finland Women",1,39
+244,132687_1,132687,1429061,"Traijila Mulepati ","Finland Women",2,2
+245,132687_1,132687,1429129,"Stella Sheridan","Finland Women",3,27
+246,132687_1,132687,1429097,"Haiyen Nguyen","Finland Women",4,14
+247,132687_1,132687,1429142,"Rhea Khullar","Finland Women",5,4
+248,132687_1,132687,1429106,"Malyun Hassan","Finland Women",6,0
+249,132687_1,132687,1458461,"Mira Saastamoinen","Finland Women",7,0
+250,132687_1,132687,1429133,"Aanchal Khullar","Finland Women",8,0
+251,132687_1,132687,1429113,"Mari Kojo","Finland Women",9,0
+252,132687_1,132687,1458428,"Abinaya Shanmuganathan","Finland Women",10,0
+253,132687_1,132687,1458439,"Minna Stolt","Finland Women",11,0
+254,132687_2,132687,1428823,"Wilhelmina Garcia","Germany Women",1,52
+255,132687_2,132687,18325,"Karthika Vijayaraghavan","Germany Women",2,6
+256,132687_2,132687,27856,"Shravya Kolcharam","Germany Women",3,2
+257,132687_2,132687,18284,"Janet Ronalds","Germany Women",4,23
+258,132687_2,132687,1461858,"Aishani Kishore","Germany Women",5,0
+259,132687_2,132687,18314,"Verena Stolle","Germany Women",6,0
+260,132687_2,132687,18330,"Antonia Meyenborg","Germany Women",7,0
+261,132687_2,132687,18315,"Asmita Kohli","Germany Women",8,0
+262,132687_2,132687,45841,"Rameesha Shahid","Germany Women",9,0
+263,132687_2,132687,1452800,"Ameya Kanukuntla","Germany Women",10,0
+264,132687_2,132687,1452791,"Iris Edwards","Germany Women",11,0
+265,131532_1,131532,12755,"Chiedza Dhururu","Zimbabwe Women",1,18
+266,131532_1,131532,19097,"Kelis Ndhlovu","Zimbabwe Women",2,23
+267,131532_1,131532,12289,"Loreen Tshuma","Zimbabwe Women",3,9
+268,131532_1,131532,12754,"Chipo Mugeri","Zimbabwe Women",4,39
+269,131532_1,131532,20112,"Nyasha Gwanzura","Zimbabwe Women",5,0
+270,131532_1,131532,54987,"Beloved Biza","Zimbabwe Women",6,22
+271,131532_1,131532,12287,Nkomo,"Zimbabwe Women",7,5
+272,131532_1,131532,12283,Mupachikwa,"Zimbabwe Women",8,0
+273,131532_1,131532,19102,"Francisca Chipare","Zimbabwe Women",9,0
+274,131532_1,131532,1432945,"Adel Zimunu","Zimbabwe Women",10,0
+275,131532_1,131532,53342,"Lindokuhle Mabhero","Zimbabwe Women",11,0
+276,131532_2,131532,15379,"Sune Wittmann","Namibia Women",1,23
+277,131532_2,131532,14535,"Kayleen Green","Namibia Women",2,12
+278,131532_2,131532,14537,"Yasmeen Khan","Namibia Women",3,21
+279,131532_2,131532,24960,"Mekelaye Mwatile","Namibia Women",4,6
+280,131532_2,131532,24967,"Edelle van Zyl","Namibia Women",5,5
+281,131532_2,131532,15374,"Merczerly Gorases","Namibia Women",6,1
+282,131532_2,131532,24958,"Jurriene Diergaardt","Namibia Women",7,0
+283,131532_2,131532,15378,"Wilka Mwatile","Namibia Women",8,24
+284,131532_2,131532,14536,"Sylvia Shihepo","Namibia Women",9,0
+285,131532_2,131532,15376,"Eveleen Kejarukua","Namibia Women",10,4
+286,131532_2,131532,15375,"Victoria Hamunyela","Namibia Women",11,0
+287,131543_1,131543,36251,"Saum Mtae","Tanzania Women",1,39
+288,131543_1,131543,42002,"Neema Pius","Tanzania Women",2,18
+289,131543_1,131543,17998,"Fatuma Kibasu","Tanzania Women",3,12
+290,131543_1,131543,36256,"Hudaa Omary","Tanzania Women",4,2
+291,131543_1,131543,46468,"Nasra Mohamedi","Tanzania Women",5,20
+292,131543_1,131543,36263,"Agnes Qwele","Tanzania Women",6,1
+293,131543_1,131543,36244,"Shufaa Mohamedi","Tanzania Women",7,10
+294,131543_1,131543,18045,Kamunya,"Tanzania Women",8,0
+295,131543_1,131543,24720,"Nasra Nassoro Saidi","Tanzania Women",9,0
+296,131543_1,131543,36279,"Mwanamvua Ushanga","Tanzania Women",10,0
+297,131543_1,131543,24722,"Sophia Frank Jerome","Tanzania Women",11,0
+298,131543_2,131543,13839,"Janet Mbabazi","Uganda Women",1,8
+299,131543_2,131543,35740,"Esther Iloku","Uganda Women",2,49
+300,131543_2,131543,13841,"Immaculate Nakisuuyi","Uganda Women",3,22
+301,131543_2,131543,13838,"Rita Musamali","Uganda Women",4,27
+302,131543_2,131543,13849,"Stephani Nampiina","Uganda Women",5,5
+303,131543_2,131543,35731,"Prosscovia Alako","Uganda Women",6,5
+304,131543_2,131543,13843,"Kevin Awino","Uganda Women",7,0
+305,131543_2,131543,46065,"Malisa Ariokot","Uganda Women",8,0
+306,131543_2,131543,1462434,"Naome Amongin","Uganda Women",9,0
+307,131543_2,131543,1451569,"Irene Mutoni","Uganda Women",10,0
+308,131543_2,131543,13847,"Concy Aweko","Uganda Women",11,0
+309,131526_1,131526,23771,"Queentor Abel","Kenya Women",1,11
+310,131526_1,131526,23806,"Monicah Ndhambi","Kenya Women",2,15
+311,131526_1,131526,23831,"Esther Wachira","Kenya Women",3,53
+312,131526_1,131526,23776,"Veronica Abuga","Kenya Women",4,0
+313,131526_1,131526,36354,"Melvin Khagoitsa","Kenya Women",5,0
+314,131526_1,131526,53338,"Jemimah Ndanu","Kenya Women",6,10
+315,131526_1,131526,23841,"Venasa Ooko","Kenya Women",7,5
+316,131526_1,131526,23781,"Ruth Achando","Kenya Women",8,0
+317,131526_1,131526,23786,"Lavendah Idambo","Kenya Women",9,0
+318,131526_1,131526,50215,"Judith Ogolla","Kenya Women",10,0
+319,131526_1,131526,43013,"Ann Wanjira","Kenya Women",11,0
+320,131526_2,131526,18016,"Marie Bimenyimana","Rwanda Women",1,49
+321,131526_2,131526,38566,"Merveille Uwase","Rwanda Women",2,0
+322,131526_2,131526,42187,"Clarisse Uwase","Rwanda Women",3,26
+323,131526_2,131526,45141,"Flora Irakoze","Rwanda Women",4,4
+324,131526_2,131526,38533,"Gisele Ishimwe","Rwanda Women",5,14
+325,131526_2,131526,38638,"Henriette Ishimwe","Rwanda Women",6,6
+326,131526_2,131526,42345,"Alice Ikuzwe","Rwanda Women",7,0
+327,131526_2,131526,38610,"Belise Murekatete","Rwanda Women",8,0
+328,131526_2,131526,38559,"Geovanis Uwase","Rwanda Women",9,0
+329,131526_2,131526,1424874,"Rosette Shimwamana","Rwanda Women",10,0
+330,131526_2,131526,38540,"Rosine Irera","Rwanda Women",11,0
+331,131515_1,131515,42324,"Lucky Piety","Nigeria Women",1,68
+332,131515_1,131515,1450420,"Muhibat Amusa","Nigeria Women",2,31
+333,131515_1,131515,42331,"Salome Sunday","Nigeria Women",3,47
+334,131515_1,131515,45071,"Oseyande Omonkhobhio","Nigeria Women",4,4
+335,131515_1,131515,53363,"Christabel Chukwuonye","Nigeria Women",5,20
+336,131515_1,131515,42639,"Sarah Etim","Nigeria Women",6,0
+337,131515_1,131515,42306,"Peculiar Agboya","Nigeria Women",7,0
+338,131515_1,131515,42082,"Rachael Samson","Nigeria Women",8,0
+339,131515_1,131515,42313,"Lillian Udeh","Nigeria Women",9,0
+340,131515_1,131515,42527,"Adeshola Adekunle","Nigeria Women",10,0
+341,131515_1,131515,1423795,"Usen Peace","Nigeria Women",11,0
+342,131515_2,131515,42296,"Emma Kamara","Sierra Leone Women",1,31
+343,131515_2,131515,37840,"Aminata Kamara","Sierra Leone Women",2,11
+344,131515_2,131515,42299,"Fatu Conteh","Sierra Leone Women",3,3
+345,131515_2,131515,42282,"Celina Bull","Sierra Leone Women",4,0
+346,131515_2,131515,42481,"Marie Turay","Sierra Leone Women",5,5
+347,131515_2,131515,33598,"Ann Marie Kamara","Sierra Leone Women",6,10
+348,131515_2,131515,37868,"Zainab Kamara","Sierra Leone Women",7,9
+349,131515_2,131515,37852,"Linda Bull","Sierra Leone Women",8,3
+350,131515_2,131515,1452521,"Patrica Pratt","Sierra Leone Women",9,0
+351,131515_2,131515,42275,"Hussainatu Sawanneh","Sierra Leone Women",10,0
+352,131515_2,131515,1454820,"Aisha Bangura","Sierra Leone Women",11,0
+353,131229_1,131229,29816,"Phebe Molkenboer","Netherlands Women",1,91
+354,131229_1,131229,46982,"Merel Dekeling","Netherlands Women",2,8
+355,131229_1,131229,13761,"Babette de Leede","Netherlands Women",3,8
+356,131229_1,131229,13770,"Robine Rijke","Netherlands Women",4,13
+357,131229_1,131229,15385,"Frederique Overdijk","Netherlands Women",5,36
+358,131229_1,131229,50355,"Myrthe van den Raad","Netherlands Women",6,3
+359,131229_1,131229,15383,"Caroline de Lange","Netherlands Women",7,0
+360,131229_1,131229,15382,"Hannah Landheer","Netherlands Women",8,0
+361,131229_1,131229,15387,"Iris Zwilling","Netherlands Women",9,0
+362,131229_1,131229,1461345,"Lara Leemhuis","Netherlands Women",10,0
+363,131229_1,131229,13771,"Silver Siegers","Netherlands Women",11,0
+364,131229_2,131229,1428823,"Wilhelmina Garcia","Germany Women",1,51
+365,131229_2,131229,45841,"Rameesha Shahid","Germany Women",2,33
+366,131229_2,131229,1452800,"Ameya Kanukuntla","Germany Women",3,11
+367,131229_2,131229,18325,"Karthika Vijayaraghavan","Germany Women",4,0
+368,131229_2,131229,1461858,"Aishani Kishore","Germany Women",5,0
+369,131229_2,131229,27856,"Shravya Kolcharam","Germany Women",6,0
+370,131229_2,131229,18314,"Verena Stolle","Germany Women",7,0
+371,131229_2,131229,18315,"Asmita Kohli","Germany Women",8,0
+372,131229_2,131229,45918,"Ashwini Balaji","Germany Women",9,0
+373,131229_2,131229,1452791,"Iris Edwards","Germany Women",10,0
+374,131229_2,131229,18330,"Antonia Meyenborg","Germany Women",11,0
+375,131235_1,131235,19572,"Amy Hunter","Ireland Women",1,62
+376,131235_1,131235,19567,"Ava Canning","Ireland Women",2,4
+377,131235_1,131235,9475,"Laura Delany","Ireland Women",3,91
+378,131235_1,131235,12764,"Rebecca Stokell","Ireland Women",4,0
+379,131235_1,131235,11558,"Leah Paul","Ireland Women",5,2
+380,131235_1,131235,1428760,"Coulter Reilly","Ireland Women",6,0
+381,131235_1,131235,26213,"Arlene Kelly","Ireland Women",7,0
+382,131235_1,131235,19561,"Jane Maguire","Ireland Women",8,6
+383,131235_1,131235,1449424,"Lara McBride","Ireland Women",9,0
+384,131235_1,131235,38379,"Freya Sargent","Ireland Women",10,0
+385,131235_1,131235,26211,"Alana Dalzell","Ireland Women",11,0
+386,131235_2,131235,12014,"Chloe Piparo","Italy Women",1,36
+387,131235_2,131235,34415,"Methnara Rathnayake","Italy Women",2,7
+388,131235_2,131235,1432321,"Annie Wikman","Italy Women",3,53
+389,131235_2,131235,1426417,"Ilenia Sims","Italy Women",4,12
+390,131235_2,131235,34401,"Emilia Bartram","Italy Women",5,4
+391,131235_2,131235,29601,"Dilaisha Nanayakkara","Italy Women",6,1
+392,131235_2,131235,34410,"Chathurika Mahamalage","Italy Women",7,0
+393,131235_2,131235,1426550,"Pasindi Kanankege","Italy Women",8,1
+394,131235_2,131235,29571,"Teshani Araliya","Italy Women",9,7
+395,131235_2,131235,34394,"Nimesha Ekanayake","Italy Women",10,3
+396,131235_2,131235,1428800,"Emma Moore","Italy Women",11,0
+397,131218_1,131218,45841,"Rameesha Shahid","Germany Women",1,6
+398,131218_1,131218,1428823,"Wilhelmina Garcia","Germany Women",2,10
+399,131218_1,131218,27856,"Shravya Kolcharam","Germany Women",3,25
+400,131218_1,131218,1452785,"Nicole Kingsley","Germany Women",4,11
+401,131218_1,131218,1452800,"Ameya Kanukuntla","Germany Women",5,27
+402,131218_1,131218,18325,"Karthika Vijayaraghavan","Germany Women",6,13
+403,131218_1,131218,18314,"Verena Stolle","Germany Women",7,0
+404,131218_1,131218,18315,"Asmita Kohli","Germany Women",8,0
+405,131218_1,131218,1452791,"Iris Edwards","Germany Women",9,0
+406,131218_1,131218,18330,"Antonia Meyenborg","Germany Women",10,0
+407,131218_1,131218,45918,"Ashwini Balaji","Germany Women",11,0
+408,131218_2,131218,1453037,"Alexia Kontopirakis","Italy Women",1,5
+409,131218_2,131218,34415,"Methnara Rathnayake","Italy Women",2,4
+410,131218_2,131218,12014,"Chloe Piparo","Italy Women",3,35
+411,131218_2,131218,1432321,"Annie Wikman","Italy Women",4,38
+412,131218_2,131218,1426417,"Ilenia Sims","Italy Women",5,22
+413,131218_2,131218,34401,"Emilia Bartram","Italy Women",6,0
+414,131218_2,131218,34410,"Chathurika Mahamalage","Italy Women",7,0
+415,131218_2,131218,29571,"Teshani Araliya","Italy Women",8,0
+416,131218_2,131218,34394,"Nimesha Ekanayake","Italy Women",9,0
+417,131218_2,131218,1461850,"Amaya Rajapaksha","Italy Women",10,0
+418,131218_2,131218,1426543,"Ishara Jayamannage","Italy Women",11,0
+419,131224_1,131224,29816,"Phebe Molkenboer","Netherlands Women",1,9
+420,131224_1,131224,46982,"Merel Dekeling","Netherlands Women",2,9
+421,131224_1,131224,13761,"Babette de Leede","Netherlands Women",3,23
+422,131224_1,131224,13770,"Robine Rijke","Netherlands Women",4,25
+423,131224_1,131224,15385,"Frederique Overdijk","Netherlands Women",5,3
+424,131224_1,131224,50355,"Myrthe van den Raad","Netherlands Women",6,5
+425,131224_1,131224,15387,"Iris Zwilling","Netherlands Women",7,2
+426,131224_1,131224,1423987,"Sanya Khurana","Netherlands Women",8,5
+427,131224_1,131224,15383,"Caroline de Lange","Netherlands Women",9,0
+428,131224_1,131224,15382,"Hannah Landheer","Netherlands Women",10,9
+429,131224_1,131224,13771,"Silver Siegers","Netherlands Women",11,0
+430,131224_2,131224,1428760,"Coulter Reilly","Ireland Women",1,2
+431,131224_2,131224,11258,"Gaby Lewis","Ireland Women",2,56
+432,131224_2,131224,13742,"Orla Prendergast","Ireland Women",3,49
+433,131224_2,131224,19572,"Amy Hunter","Ireland Women",4,3
+434,131224_2,131224,9475,"Laura Delany","Ireland Women",5,0
+435,131224_2,131224,11558,"Leah Paul","Ireland Women",6,0
+436,131224_2,131224,12764,"Rebecca Stokell","Ireland Women",7,0
+437,131224_2,131224,26213,"Arlene Kelly","Ireland Women",8,0
+438,131224_2,131224,19561,"Jane Maguire","Ireland Women",9,0
+439,131224_2,131224,1449424,"Lara McBride","Ireland Women",10,0
+440,131224_2,131224,13741,"Cara Murray","Ireland Women",11,0

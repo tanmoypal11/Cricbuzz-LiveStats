@@ -1,0 +1,38 @@
+id,name,battingStyle,bowlingStyle,category
+10276,"Ishan Kishan","Left-hand bat",NULL,"WICKET KEEPER"
+10551,"Prasidh Krishna","Right-hand bat","Right-arm fast",BOWLER
+10636,"Rajat Patidar","Right-hand bat","Right-arm offbreak",BATSMEN
+10744,"Rishabh Pant","Left-hand bat",NULL,"WICKET KEEPER"
+10754,"Mukesh Kumar","Right-hand bat","Right-arm fast-medium",BOWLER
+10808,"Mohammed Siraj","Right-hand bat","Right-arm fast",BOWLER
+10896,"Rinku Singh","Left-hand bat","Right-arm offbreak",BATSMEN
+10945,"Washington Sundar","Left-hand bat","Right-arm offbreak","ALL ROUNDER"
+11195,"Shivam Dube","Left-hand bat","Right-arm medium","ALL ROUNDER"
+11808,"Shubman Gill","Right-hand bat","Right-arm offbreak",BATSMEN
+11813,"Ruturaj Gaikwad","Right-hand bat","Right-arm offbreak",BATSMEN
+12086,"Abhishek Sharma","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+12926,"Varun Chakaravarthy","Right-hand bat","Right-arm legbreak",BOWLER
+13217,"Arshdeep Singh","Left-hand bat","Left-arm fast-medium",BOWLER
+13866,"Sai Sudharsan","Left-hand bat","Right-arm legbreak",BATSMEN
+13940,"Yashasvi Jaiswal","Left-hand bat","Right-arm legbreak",BATSMEN
+1413,"Virat Kohli","Right-hand bat","Right-arm medium",BATSMEN
+14504,"Tilak Varma","Left-hand bat","Right-arm offbreak",BATSMEN
+14659,"Ravi Bishnoi","Right-hand bat","Right-arm legbreak",BOWLER
+14691,"Dhruv Jurel","Right-hand bat",NULL,"WICKET KEEPER"
+14701,"Nitish Kumar Reddy","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+14726,"Akash Deep","Right-hand bat","Right-arm fast-medium",BOWLER
+24729,"Harshit Rana","Right-hand bat","Right-arm fast-medium",BOWLER
+576,"Rohit Sharma","Right-hand bat","Right-arm offbreak",BATSMEN
+587,"Ravindra Jadeja","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+7915,"Suryakumar Yadav","Right-hand bat","Right-arm offbreak",BATSMEN
+8257,"Karun Nair","Right-hand bat","Right-arm offbreak",BATSMEN
+8271,"Sanju Samson","Right-hand bat",NULL,"WICKET KEEPER"
+8292,"Kuldeep Yadav","Left-hand bat","Left-arm wrist-spin",BOWLER
+8683,"Shardul Thakur","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+8733,"KL Rahul","Right-hand bat",NULL,"WICKET KEEPER"
+8808,"Axar Patel","Left-hand bat","Left-arm orthodox","ALL ROUNDER"
+9311,"Jasprit Bumrah","Right-hand bat","Right-arm fast",BOWLER
+9428,"Shreyas Iyer","Right-hand bat","Right-arm legbreak",BATSMEN
+9429,"Sarfaraz Khan","Right-hand bat","Right-arm legbreak",BATSMEN
+9647,"Hardik Pandya","Right-hand bat","Right-arm fast-medium","ALL ROUNDER"
+9716,"Abhimanyu Easwaran","Right-hand bat","Right-arm legbreak",BATSMEN
